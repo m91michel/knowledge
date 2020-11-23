@@ -2,19 +2,21 @@
 
 ## BTC Indikatoren
 
-### Hash Ribbon
-- https://www.btc-echo.de/bitcoin-kurs-steht-das-todeskreuz-bevor-hash-ribbon-unter-der-lupe/
-- https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836
-
-
 ### Stock-to-flow
+> SF = stock / flow
+- [Plan B - creator of the S2F Model](https://100trillionusd.github.io/)
 - [Modeling Bitcoin Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
+- [Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
 - [Charts by digitalik.net](https://digitalik.net/btc/)
 - [Daily updated charts of Bitcoin's stock-to-flow vs price](https://s2f.hamal.nl/s2fcharts.html)
 
 ### Bitcoin Market-Value-to-Realized-Value (MVRV) Ratio
 > MVRV is calculated by simply dividing market value by realized value on a daily basis
 - [The Logic Behind Realized Value](https://medium.com/adaptivecapital/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)
+### Hash Ribbons
+- [Hash Ribbons & Bitcoin Bottoms](https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836)
+- [Bitcoin Kurs Analyse: Dieser Indikator könnte den nächsten Bullrun ankündigen](https://cryptomonday.de/bitcoin-kurs-analyse-dieser-indikator-koennte-den-naechsten-bullrun-ankuendigen/)
+- [Bitcoin-Kurs: Steht das Todeskreuz bevor? Hash Ribbon unter der Lupe](https://www.btc-echo.de/bitcoin-kurs-steht-das-todeskreuz-bevor-hash-ribbon-unter-der-lupe/)
 
 ### Mayer Multiple
 - [HOW THE MAYER MULTIPLE WORKS](https://www.theinvestorspodcast.com/bitcoin-mayer-multiple/)
@@ -33,12 +35,13 @@ https://www.coinfarm.online/
 - [cryptoquant](https://cryptoquant.com/overview/btc-indicator)
 - [coinmetrics](https://coinmetrics.io/charts/#assets=btc)
 
-
 ## Trading Strategien
 https://www.theinvestorspodcast.com/bitcoin-mayer-multiple/
 https://www.lookintobitcoin.com/charts/
 
-## Interesting articles
+# Books
+- [THE BITCOIN STANDARD](https://saifedean.com/book/)
+# Interesting articles
 - [Bitcoins On-Chain-Verhalten fürs Investment nutzen: Neuer TA-Indikator](https://www.btc-echo.de/bitcoins-on-chain-verhalten-fuers-investment-nutzen-neuer-ta-indikator/)
 - [Top Dormant for 1 years Bitcoin Addresses](https://bitinfocharts.com/top-100-dormant_1y-bitcoin-addresses.html)
 - [Philip Swift on Twitter](https://twitter.com/positivecrypto/status/1202626554997727236?s=12)
