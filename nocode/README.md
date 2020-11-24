@@ -1,20 +1,36 @@
 # No-Code
 
-No-Code Plattformen
+## Cool no code sites
+- [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
+- [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
 
-https://toolsformakers.com/ - Tools for makers
-https://www.nocode.tech/ - NoCode and StartUp Ressources
-https://betalist.com
-https://martechbase.com/ - List of Marketing Tools
-https://nooocode.com/ - no code
+## Automation
+- [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
+- [Autocode](https://autocode.com/) - Automation for fast-moving teams
+- [Parabola](https://parabola.io) - Parabola makes it easy to automate your manual, repetitive data tasks
 
-https://crankwheel.com/pricing/ — ScreenSharing — noCode?
+## Enterprise Solutions
+- [Outsystems](https://www.outsystems.com/platform/) - Change the way you build software with OutSystems. Using high-productivity, connected, and AI-assisted tools, developers can build and deploy a full range of applications — from consumer apps to critical business systems — fast, right, and for the future.
 
-https://radreads.co/ - Blog
-https://qz.com/about/ - Magazin
+## Chat Bot
+- [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 
-https://www.metaranx.com/ - NoCode AI - Less upvotes - see product hunt
+## ML and AI Tools
+- [Obviously](https://www.obviously.ai/) - Data Predictions in minutes, without writing code.
+- [Teachablemachine with Google](https://teachablemachine.withgoogle.com/)
+- [Top 10 Tools For No-Code AI & ML](https://analyticsindiamag.com/top-10-tools-for-no-code-ai-ml/)
+- [What-if Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding.
+- [ML Kit](https://developers.google.com/ml-kit) - Machine learning for mobile developers
+- [Metaranx](https://www.metaranx.com/) - Understand your data with no code AI
+## Examples
+- [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
+- [Format twitter post and add them to buffer](https://zapier.com/shared/c2308cd444c570227f6c90dbdad49fc379343fdf)
 
+## Not related
+- [Radreads](https://radreads.co/) - Blog
+- [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
+
+## Not sorted
 https://www.mymoji.co/ - Create an handcrafted Emoji
 https://learningsynths.ableton.com/learning-more
 https://www.remotestories.com/
@@ -117,23 +133,6 @@ https://www.scraperapi.com/
 https://dashblock.com/
 
 https://distill.io/ - Track Websites Parts and get an alert
-
-Automation
-https://stdlib.com —> Zapier
-https://parabola.io
-
-Enterprise Solutions
-https://www.outsystems.com/platform/
-
-Chat Bot erstellen
-https://landbot.io/pricing/
-
-ML and AI Tools
-https://www.obviously.ai/
-https://analyticsindiamag.com/top-10-tools-for-no-code-ai-ml/
-https://teachablemachine.withgoogle.com/
-https://pair-code.github.io/what-if-tool/
-https://developers.google.com/ml-kit
 
 
 My journey to building a no-code prototype | Product Hunt
