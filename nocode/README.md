@@ -4,10 +4,14 @@
 - [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
 - [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
 
-## Automation
+## Workflow Automation
 - [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
 - [Autocode](https://autocode.com/) - Automation for fast-moving teams
 - [Parabola](https://parabola.io) - Parabola makes it easy to automate your manual, repetitive data tasks
+- [Siri Shortcuts Catalog](https://www.matthewcassinelli.com/sirishortcuts/)
+
+**Articles**
+- [Automated workflows are eating the world](https://venturebeat.com/2020/11/21/workflows-are-eating-the-world/)
 
 ## Enterprise Solutions
 - [Outsystems](https://www.outsystems.com/platform/) - Change the way you build software with OutSystems. Using high-productivity, connected, and AI-assisted tools, developers can build and deploy a full range of applications — from consumer apps to critical business systems — fast, right, and for the future.

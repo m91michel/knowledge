@@ -1,5 +1,5 @@
-# OSX
+# Investing
 
-- content here
+- [Checkout bitcoin](../bitcoin/README.md)
 
 
