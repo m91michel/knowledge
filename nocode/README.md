@@ -34,52 +34,50 @@
 - [Radreads](https://radreads.co/) - Blog
 - [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
 
-## Not sorted
-https://www.mymoji.co/ - Create an handcrafted Emoji
-https://learningsynths.ableton.com/learning-more
-https://www.remotestories.com/
-https://stria.co/ - Feedback analysis
-https://www.flippa.com/ - Buy companies
-https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel
-https://www.daolf.com/posts/ - Blog - Indie Hacker ScrapingBee
 
-EINGANG
-https://ninox.com/de - Berliner nocode startup für Prozess Optimierung
+## EINGANG
+- [Ninoc](https://ninox.com/de) - Digitalisieren Sie Ihre Prozesse jetzt - nocode startup für Prozess Optimierung
 
-https://openstacks.co/ - stacks
-https://nocodefounders.com/perks/ - community
-https://www.honeycode.aws/features
-https://zeroqode.com/
-https://www.nocode.tech/builds
+- [NFC - NoCodeFounder](https://nocodefounders.com/perks/) - The #1 No Code Slack community and platform for non-technical founders and entrepreneurs.
+- [AWS Honeycode](https://www.honeycode.aws/) - Amazon Honeycode gives you the power to build apps that improve how your team works. Build one or many apps - the only limit is your creativity.
+- [Zeroqode](https://zeroqode.com/) - Everything You Need to Build Web and Mobile Apps Without Code.
+10 Times Faster and Just as Powerful as Coding.
+- [Nocode.tech](https://www.nocode.tech/builds) - Discover the 200+ tools and skills used by entrepreneurs, designers and employees around the world to create the software they need - without coding.
+- [Nocode coffe](https://nocode.coffee/) - A daily shot of no-code goodness. - Newsletter
+- [Botmake.io](https://botmake.io/) - Create a chatbot
+- [No code journal](https://mynocodejournal.com/#example) - Create journal of 100day challenge
+- [Side project stack](https://sideprojectstack.com/) - I've created this site as a Maker's guide to help reduce your effort in making and launching a no-code side project.
 
-https://medium.com/nocode/what-is-no-code-8c53f0e4c083
+## Articels
+- [What Is No Code?](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)
+## API
+- [Autocode](https://autocode.com/) - Instant API automation with code. Generate Webhook code for connection of two services
 
-https://nocode.coffee/ - no code Site
-https://botmake.io/ - Chatbot
-https://mynocodejournal.com/#example - Create journal of 100day challenge
+## Website
+- [Dorik](https://dorik.com/) - Design & Host Beautiful Websites Without Code!
 
-https://sideprojectstack.com/ - NoCode Stacks
-https://nocodery.com/ - Tutorials und Snacks
-https://autocode.com/ - Generate Webhook code for connection of two services
+## Scrapping of websites
+- [Phantombuster](https://phantombuster.com) - Code-free automations and data extraction
+- [Octoparse](https://www.octoparse.com) - Quickly scrape web data without coding Turn web pages into structured spreadsheets within clicks
+- [Simplescraper.io](https://simplescraper.io) - Extract data from any website in seconds
+- [Apify](https://apify.com/) - Extract data from any website
+- [Scraperapi](https://www.scraperapi.com/) - Scraper API handles proxies, browsers, and CAPTCHAs, so you can get the HTML from any web page with a simple API call!
+- [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
+- [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
 
-https://dorik.com/ - New Website Baukasten 
-https://autocode.com/
-Webseiten scrapping
-https://phantombuster.com/pricing - Webseiten scrapping
-https://www.octoparse.com/pricing
-
-
-https://www.02100.io/ - NoCode Agentur aus Hamburg
-https://www.generato.com/ - Low-Code Plattform was code generiert - Hamburg
+## Agentcies
+- [02100](https://www.02100.io) - Digitaler Vorreiter werden. Mit Low-Code. - NoCode Agentur aus Hamburg
 
 ## Funny Connent
-https://nocodegifs.com/#
+- [Nocode gifs](https://nocodegifs.com/) - It's NoCode GIFs y'all!
 
-Tutorials & List of Tools
-https://www.makerpad.co/
-https://nocodehq.com
-https://www.nucode.co/build - List of Tool, Tutorials and platform
-https://x.workandwhistle.co/no-code-list/ -list
+## Tutorials & List of Tools
+- [Makerpad](https://www.makerpad.co) - Join thousands learning to build software. No coding required.
+- [Nocodery](https://nocodery.com/) - Tutorials und Snacks
+- [Nocodehq](https://nocodehq.com) - Tutorials and templates
+- [Nucode](https://www.nucode.co) - List of Tool, Tutorials and community
+- [Nocodelist.co](https://nocodelist.co/) - list of tools
+
 https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight
 
 https://www.automators.academy/ - Automation Tutorials
@@ -129,15 +127,6 @@ Backend Services with NoCode
 https://busywork.co/pricing
 https://www.8base.com/
 https://www.indiehackers.com/post/are-there-any-good-database-api-no-code-options-adf9818b7b
-
-Scrapping von Seiten
-https://simplescraper.io/
-https://apify.com/
-https://www.scraperapi.com/
-https://dashblock.com/
-
-https://distill.io/ - Track Websites Parts and get an alert
-
 
 My journey to building a no-code prototype | Product Hunt
 Create an App from a Google Sheet in Minutes · Glide
