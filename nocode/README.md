@@ -1,6 +1,7 @@
 # No-Code
 ![Nocode logos](/nocode/logos.png)
-## Cool no code sites
+> A no code development platform is a tool for building software applications without coding; a popular and promising alternative to traditional software development for non-technical business users hoping to build their own full-fledged applications. - [What is no code? The pros and cons of no code for software development.](https://codebots.com/low-code/what-is-no-code-the-pros-and-cons-of-no-code-for-software-development)
+## Communites, Ressources, Tutorials
 - [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
 - [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
 - [NFC - NoCodeFounder](https://nocodefounders.com/perks/) - The #1 No Code Slack community and platform for non-technical founders and entrepreneurs.
@@ -12,14 +13,12 @@ creativity.
 - [No code journal](https://mynocodejournal.com/#example) - Create journal of 100day challenge
 - [Side project stack](https://sideprojectstack.com/) - I've created this site as a Maker's guide to help reduce your effort in making and launching a no-code side project.
 - [Nocodedevs](https://www.nocodedevs.com/) - Community - Learn to build real projects, automate anything and build profitable side projects.
-
-## Tutorials & List of Tools
 - [Makerpad](https://www.makerpad.co) - Join thousands learning to build software. No coding required.
 - [Nocodery](https://nocodery.com/) - Tutorials und Snacks
 - [Nocodehq](https://nocodehq.com) - Tutorials and templates
 - [Nucode](https://www.nucode.co) - List of Tool, Tutorials and community
 - [Nocodelist.co](https://nocodelist.co/) - list of tools
-- [AirTable list with nocode tolls](https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight)
+- [AirTable list with nocode tools](https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight)
 - [Work x Whistle](https://x.workandwhistle.co/demos/) - Blog & Tutorials
 - [Automators.academy](https://www.automators.academy/) - It's time to put your business operations on autopilot so you can focus on your product. - course, automation tutorials
 
