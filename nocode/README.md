@@ -44,6 +44,7 @@ creativity.
 - [AWS Honeycode](https://www.honeycode.aws/) - Amazon Honeycode gives you the power to build apps that improve how your team works. Build one or many apps - the only limit is your 
 - [Readymag](https://readymag.com/) - Readymag is a browser-based design tool that offers unlimited possibilities to create landing pages, websites
 - [Versoly](https://versoly.com/) - With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches.
+- [Actiondeks.io](https://www.actiondesk.io/) - As easy and flexible as a spreadsheet. As powerful as a BI tool.
 
 
 **Ressources**
@@ -79,13 +80,13 @@ creativity.
 - [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
 - [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
   
-## Chat Bot and voice apps
+## Chatbot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 - [Botmake.io](https://botmake.io/) - Create a chatbot
 - [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps
 - [Octane AI](https://octaneai.com/) - Fuel faster growth and personalization with Octane AI’s all-in-one platform for Quizzes, Facebook Messenger & SMS automation, and opt-in tools.
 
-## ML and AI Tools
+## Machine learning and AI tools
 - [Obviously](https://www.obviously.ai/) - Data Predictions in minutes, without writing code.
 - [Teachablemachine with Google](https://teachablemachine.withgoogle.com/)
 - [Top 10 Tools For No-Code AI & ML](https://analyticsindiamag.com/top-10-tools-for-no-code-ai-ml/)
@@ -100,18 +101,18 @@ creativity.
 - [Outsystems](https://www.outsystems.com/platform/) - Change the way you build software with OutSystems. Using high-productivity, connected, and AI-assisted tools, developers can build and deploy a full range of applications — from consumer apps to critical business systems — fast, right, and for the future.
 - [Ninoc](https://ninox.com/de) - Digitalisieren Sie Ihre Prozesse jetzt - nocode startup für Prozess Optimierung
 
-## Backend Services with NoCode
+## Backend services with nocode
 - [Busywork](https://busywork.co) - Busywork reduces backend development time by 10x, eliminates DevOps, and scales automatically. We play well with React, Angular, and Vue.
 - [8base](https://www.8base.com/) - The best way to build, run and grow professional-grade web and mobile applications that power your business. - GraphQL, SQL, serverless
 - [Are there any good Database/API no-code options?](https://www.indiehackers.com/post/are-there-any-good-database-api-no-code-options-adf9818b7b)
 
-## Examples
-- [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
-- [Format twitter post and add them to buffer](https://zapier.com/shared/c2308cd444c570227f6c90dbdad49fc379343fdf)
-
 ## API
 - [Autocode](https://autocode.com/) - Instant API automation with code. Generate Webhook code for connection of two services
 - [NoCodeAPI](https://nocodeapi.com/) - Save time to Setup Server & Code for APIs
+
+## Examples
+- [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
+- [Format twitter post and add them to buffer](https://zapier.com/shared/c2308cd444c570227f6c90dbdad49fc379343fdf)
 
 ## Agentcies
 - [02100](https://www.02100.io) - Digitaler Vorreiter werden. Mit Low-Code. - NoCode Agentur aus Hamburg
@@ -134,14 +135,13 @@ creativity.
 
 ## Further tools
 - [Substack](https://substack.com/) - Start a newsletter. Build your community. Make money from subscriptions.
+- [Gumroad](https://gumroad.com/) - a no-code payment solution that is easy to setup and simple to scale. 
 - [Shopify](https://www.shopify.com/) - Anyone, anywhere, can start a business. Create a ecommerce page
+- [Sharetribe](https://www.sharetribe.com/) - Build a successful marketplace business. Fast.
 - [Scapic](https://www.scapic.com/) - We started Scapic with a goal to be the simplest way you create, share and explore AR, VR & 3D experiences.
 - [Memberstack](https://www.memberstack.io/) - Beautiful user login & payments for modern web applications. Connect with carrd, Hubspot etc.
+- [MemberSpace](https://www.memberspace.com/) - Turn any part of your website into members-only with just a few clicks
 - [Hubspot](https://www.hubspot.de) - Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
 - [Beamer](https://www.getbeamer.com/) - Announce your latest updates and get powerful feedback with an in-app notification center, widgets and changelog.
-- [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
+- [Buy me a coffee](https://www.buymeacoffee.com/) - Buy Me a Coffee is a simple, meaningful way to fund your creative work.
 
-
-## Not related
-- [Radreads](https://radreads.co/) - Blog
-- [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders

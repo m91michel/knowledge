@@ -1,5 +1,6 @@
 # Indie Maker
 
+- [Makermag](https://makermag.com/) - The site for indie entrepreneurs,  bootstrappers, and solo founders.
 ## SaaS
 
 - [The hustling bears](https://thehustlingbears.com/) - Organic Growth strategies extracted from discussion forums and deep comments sections
