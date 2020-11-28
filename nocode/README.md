@@ -1,5 +1,5 @@
 # No-Code
-
+![Nocode logos](/nocode/logos.png)
 ## Cool no code sites
 - [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
 - [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
@@ -11,6 +11,7 @@ creativity.
 - [Nocode coffe](https://nocode.coffee/) - A daily shot of no-code goodness. - Newsletter
 - [No code journal](https://mynocodejournal.com/#example) - Create journal of 100day challenge
 - [Side project stack](https://sideprojectstack.com/) - I've created this site as a Maker's guide to help reduce your effort in making and launching a no-code side project.
+- [Nocodedevs](https://www.nocodedevs.com/) - Community - Learn to build real projects, automate anything and build profitable side projects.
 
 ## Tutorials & List of Tools
 - [Makerpad](https://www.makerpad.co) - Join thousands learning to build software. No coding required.
@@ -22,23 +23,34 @@ creativity.
 - [Work x Whistle](https://x.workandwhistle.co/demos/) - Blog & Tutorials
 - [Automators.academy](https://www.automators.academy/) - It's time to put your business operations on autopilot so you can focus on your product. - course, automation tutorials
 
-## Website builder and tools
+## Build static website or web applications
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
+- [Webflow](https://webflow.com/) - Webflow empowers designers to build professional, custom websites in a completely visual canvas.
 - [Dorik](https://dorik.com/) - Design & Host Beautiful Websites Without Code!
 - [Boundless](https://www.boundlesslabs.com) - Boundless lets you build the web site of your dreams.
 - [Bubble](https://bubble.io) - Build a world class web app in days. No experience required.
+- [Corvid by Wix](https://www.wix.com/corvid/) - Accelerated Development of Web Applications
 - [Bildr](https://www.bildr.com/) - Websites + Web Apps
+- [Sheet2Site](https://www.sheet2site.com/) - Create your own website using only Google Sheets
+- [SheetUI](https://sheetui.com/) - Turn Your Google Sheets Into A Beautiful Page
+- [Squarespace](https://de.squarespace.com/) - Simple tools for your big ideas.Start your free website trial today, no credit card required.
 - [Stacker](https://stacker.app/) - Turn your spreadsheets into applications
+- [Bold](https://thinkbold.io/) - Instantly turn your spreadsheets into software for your team
+- [Softs](https://www.softr.io/) - Build powerful websites and web apps on Airtable in 10 minutes, without writing code.
+- [Umso](https://www.umso.com/) - The Website Builder for Startups
 - [Stein](https://steinhq.com/) - Ship fast and manage your data with ease. Connect to Google Sheets.
 - [Retool](https://retool.com/) - Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward.
 - [AWS Honeycode](https://www.honeycode.aws/) - Amazon Honeycode gives you the power to build apps that improve how your team works. Build one or many apps - the only limit is your 
+- [Readymag](https://readymag.com/) - Readymag is a browser-based design tool that offers unlimited possibilities to create landing pages, websites
+- [Versoly](https://versoly.com/) - With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches.
 
-**Templates for your site**
+
+**Ressources**
 - [Carrd Templates For Your Next Project](https://drrac.co/)
 - [Deck of carrd](https://deckof.carrd.co/) - A hand-picked deck of 52 inspirational Carrd.co sites
+- [Jetboost.io](https://www.jetboost.io/) - Your No-Code Webflow Sidekick
 
 ## Build mobile apps
-Mobile App Services
 - [Thunkable](https://thunkable.com/) - Fast apps, no coding
 - [Adalo](https://www.adalo.com/) - Turn Your Startup Idea Into Reality Without Coding! 
 - [Glide Apps](https://www.glideapps.com/) - Glide turns spreadsheets into beautiful, easy-to-use apps.
@@ -66,9 +78,11 @@ Mobile App Services
 - [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
 - [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
   
-## Chat Bot
+## Chat Bot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 - [Botmake.io](https://botmake.io/) - Create a chatbot
+- [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps
+- [Octane AI](https://octaneai.com/) - Fuel faster growth and personalization with Octane AI’s all-in-one platform for Quizzes, Facebook Messenger & SMS automation, and opt-in tools.
 
 ## ML and AI Tools
 - [Obviously](https://www.obviously.ai/) - Data Predictions in minutes, without writing code.
@@ -110,17 +124,21 @@ Mobile App Services
 
 ## Articels
 - [What Is No Code?](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)
+- [The Rise of “No Code](https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d)
 - [Five “creator” apps that have captured Silicon Valley’s attention](https://qz.com/work/1640095/five-productivity-and-creativity-apps-popular-in-silicon-valley/) - notions, carrd.co, figma, teachable, substack
 - [My Journey to Building a No-Code Prototype](https://www.producthunt.com/stories/my-journey-to-building-a-no-code-prototype)
 - [10 No-code tools to power your email newsletter](https://radreads.co/compare-substack-mailerlite-convertkit/)
 - [30 no-code and low-code tools for your next project](https://makermag.com/30-no-code-tools/)
 
 
-## Newsletter
+## Further tools
 - [Substack](https://substack.com/) - Start a newsletter. Build your community. Make money from subscriptions.
-
+- [Shopify](https://www.shopify.com/) - Anyone, anywhere, can start a business. Create a ecommerce page
+- [Scapic](https://www.scapic.com/) - We started Scapic with a goal to be the simplest way you create, share and explore AR, VR & 3D experiences.
 - [Memberstack](https://www.memberstack.io/) - Beautiful user login & payments for modern web applications. Connect with carrd, Hubspot etc.
 - [Hubspot](https://www.hubspot.de) - Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
+- [Beamer](https://www.getbeamer.com/) - Announce your latest updates and get powerful feedback with an in-app notification center, widgets and changelog.
+- [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
 
 
 ## Not related
