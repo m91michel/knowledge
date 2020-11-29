@@ -5,6 +5,7 @@
 - [homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started)
 
 **Plugins**
+- [awesome-homebridge](https://github.com/sahilchaddha/awesome-homebridge)
 - [homebridge-raspberrypi-temperature](https://github.com/YinHangCode/homebridge-raspberrypi-temperature) - (i)
 - [List of the most popular stand alone NPM Homebridge-plugins](https://www.reddit.com/r/homebridge/comments/7mejip/list_of_the_most_popular_stand_alone_npm/)
 - [homebridge-logic](https://www.npmjs.com/package/homebridge-logic)
