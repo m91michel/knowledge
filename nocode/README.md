@@ -1,158 +1,147 @@
 # No-Code
+![Nocode logos](/nocode/logos.png)
+## What is nocode?
+> A no code development platform is a tool for building software applications without coding; a popular and promising alternative to traditional software development for non-technical business users hoping to build their own full-fledged applications. 
+> - [What is no code? The pros and cons of no code for software development.](https://codebots.com/low-code/what-is-no-code-the-pros-and-cons-of-no-code-for-software-development)
+## Communites, Ressources, Tutorials
+- [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
+- [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
+- [NFC - NoCodeFounder](https://nocodefounders.com/perks/) - The #1 No Code Slack community and platform for non-technical founders and entrepreneurs.
+creativity.
+- [Zeroqode](https://zeroqode.com/) - Everything You Need to Build Web and Mobile Apps Without Code.
+10 Times Faster and Just as Powerful as Coding.
+- [Nocode.tech](https://www.nocode.tech/builds) - Discover the 200+ tools and skills used by entrepreneurs, designers and employees around the world to create the software they need - without coding.
+- [Nocode coffe](https://nocode.coffee/) - A daily shot of no-code goodness. - Newsletter
+- [No code journal](https://mynocodejournal.com/#example) - Create journal of 100day challenge
+- [Side project stack](https://sideprojectstack.com/) - I've created this site as a Maker's guide to help reduce your effort in making and launching a no-code side project.
+- [Nocodedevs](https://www.nocodedevs.com/) - Community - Learn to build real projects, automate anything and build profitable side projects.
+- [Makerpad](https://www.makerpad.co) - Join thousands learning to build software. No coding required.
+- [Nocodery](https://nocodery.com/) - Tutorials und Snacks
+- [Nocodehq](https://nocodehq.com) - Tutorials and templates
+- [Nucode](https://www.nucode.co) - List of Tool, Tutorials and community
+- [Nocodelist.co](https://nocodelist.co/) - list of tools
+- [AirTable list with nocode tools](https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight)
+- [Work x Whistle](https://x.workandwhistle.co/demos/) - Blog & Tutorials
+- [Automators.academy](https://www.automators.academy/) - It's time to put your business operations on autopilot so you can focus on your product. - course, automation tutorials
 
-No-Code Plattformen
-
-https://toolsformakers.com/ - Tools for makers
-https://www.nocode.tech/ - NoCode and StartUp Ressources
-https://betalist.com
-https://martechbase.com/ - List of Marketing Tools
-https://nooocode.com/ - no code
-
-https://crankwheel.com/pricing/ — ScreenSharing — noCode?
-
-https://radreads.co/ - Blog
-https://qz.com/about/ - Magazin
-
-https://www.metaranx.com/ - NoCode AI - Less upvotes - see product hunt
-
-https://www.mymoji.co/ - Create an handcrafted Emoji
-https://learningsynths.ableton.com/learning-more
-https://www.remotestories.com/
-https://stria.co/ - Feedback analysis
-https://www.flippa.com/ - Buy companies
-https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel
-https://www.daolf.com/posts/ - Blog - Indie Hacker ScrapingBee
-
-EINGANG
-https://ninox.com/de - Berliner nocode startup für Prozess Optimierung
-
-https://openstacks.co/ - stacks
-https://nocodefounders.com/perks/ - community
-https://www.honeycode.aws/features
-https://zeroqode.com/
-https://www.nocode.tech/builds
-
-https://medium.com/nocode/what-is-no-code-8c53f0e4c083
-
-https://nocode.coffee/ - no code Site
-https://botmake.io/ - Chatbot
-https://mynocodejournal.com/#example - Create journal of 100day challenge
-
-https://sideprojectstack.com/ - NoCode Stacks
-https://nocodery.com/ - Tutorials und Snacks
-https://autocode.com/ - Generate Webhook code for connection of two services
-
-https://dorik.com/ - New Website Baukasten 
-https://autocode.com/
-Webseiten scrapping
-https://phantombuster.com/pricing - Webseiten scrapping
-https://www.octoparse.com/pricing
+## Build static website or web applications
+- [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
+- [Webflow](https://webflow.com/) - Webflow empowers designers to build professional, custom websites in a completely visual canvas.
+- [Dorik](https://dorik.com/) - Design & Host Beautiful Websites Without Code!
+- [Boundless](https://www.boundlesslabs.com) - Boundless lets you build the web site of your dreams.
+- [Bubble](https://bubble.io) - Build a world class web app in days. No experience required.
+- [Corvid by Wix](https://www.wix.com/corvid/) - Accelerated Development of Web Applications
+- [Bildr](https://www.bildr.com/) - Websites + Web Apps
+- [Sheet2Site](https://www.sheet2site.com/) - Create your own website using only Google Sheets
+- [SheetUI](https://sheetui.com/) - Turn Your Google Sheets Into A Beautiful Page
+- [Squarespace](https://de.squarespace.com/) - Simple tools for your big ideas.Start your free website trial today, no credit card required.
+- [Stacker](https://stacker.app/) - Turn your spreadsheets into applications
+- [Bold](https://thinkbold.io/) - Instantly turn your spreadsheets into software for your team
+- [Softs](https://www.softr.io/) - Build powerful websites and web apps on Airtable in 10 minutes, without writing code.
+- [Umso](https://www.umso.com/) - The Website Builder for Startups
+- [Stein](https://steinhq.com/) - Ship fast and manage your data with ease. Connect to Google Sheets.
+- [Retool](https://retool.com/) - Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward.
+- [AWS Honeycode](https://www.honeycode.aws/) - Amazon Honeycode gives you the power to build apps that improve how your team works. Build one or many apps - the only limit is your 
+- [Readymag](https://readymag.com/) - Readymag is a browser-based design tool that offers unlimited possibilities to create landing pages, websites
+- [Versoly](https://versoly.com/) - With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches.
+- [Actiondeks.io](https://www.actiondesk.io/) - As easy and flexible as a spreadsheet. As powerful as a BI tool.
 
 
-https://www.02100.io/ - NoCode Agentur aus Hamburg
-https://www.generato.com/ - Low-Code Plattform was code generiert - Hamburg
+**Ressources**
+- [Carrd Templates For Your Next Project](https://drrac.co/)
+- [Deck of carrd](https://deckof.carrd.co/) - A hand-picked deck of 52 inspirational Carrd.co sites
+- [Jetboost.io](https://www.jetboost.io/) - Your No-Code Webflow Sidekick
+
+## Build mobile apps
+- [Thunkable](https://thunkable.com/) - Fast apps, no coding
+- [Adalo](https://www.adalo.com/) - Turn Your Startup Idea Into Reality Without Coding! 
+- [Glide Apps](https://www.glideapps.com/) - Glide turns spreadsheets into beautiful, easy-to-use apps.
+
+## Workflow Automation
+- [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
+- [Autocode](https://autocode.com/) - Automation for fast-moving teams
+- [Parabola](https://parabola.io) - Parabola makes it easy to automate your manual, repetitive data tasks
+- [Siri Shortcuts Catalog](https://www.matthewcassinelli.com/sirishortcuts/)
+- [Article: Automated workflows are eating the world](https://venturebeat.com/2020/11/21/workflows-are-eating-the-world/)
+
+## New type of documents
+- [Coda.io](https://coda.io/) - It's time for a new doc, that brings words, data and teams together
+- [AirTable](https://airtable.com/) - Orchestrate powerful business solutions with a single source of truth. The only limit is your imagination.
+- [Notions.co](https://www.notion.so) - One tool for your whole team. Write, plan, and get organized.
+- [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
+- [How I use Roam to take notes](https://radreads.co/roam-tutorial/)
+
+## Scrapping of websites
+- [Phantombuster](https://phantombuster.com) - Code-free automations and data extraction
+- [Octoparse](https://www.octoparse.com) - Quickly scrape web data without coding Turn web pages into structured spreadsheets within clicks
+- [Simplescraper.io](https://simplescraper.io) - Extract data from any website in seconds
+- [Apify](https://apify.com/) - Extract data from any website
+- [Scraperapi](https://www.scraperapi.com/) - Scraper API handles proxies, browsers, and CAPTCHAs, so you can get the HTML from any web page with a simple API call!
+- [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
+- [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
+  
+## Chatbot and voice apps
+- [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
+- [Botmake.io](https://botmake.io/) - Create a chatbot
+- [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps
+- [Octane AI](https://octaneai.com/) - Fuel faster growth and personalization with Octane AI’s all-in-one platform for Quizzes, Facebook Messenger & SMS automation, and opt-in tools.
+
+## Machine learning and AI tools
+- [Obviously](https://www.obviously.ai/) - Data Predictions in minutes, without writing code.
+- [Teachablemachine with Google](https://teachablemachine.withgoogle.com/)
+- [Top 10 Tools For No-Code AI & ML](https://analyticsindiamag.com/top-10-tools-for-no-code-ai-ml/)
+- [What-if Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding.
+- [ML Kit](https://developers.google.com/ml-kit) - Machine learning for mobile developers
+- [Metaranx](https://www.metaranx.com/) - Understand your data with no code AI
+
+## Enterprise solutions
+- [Kissflow](https://kissflow.com/) - We raised the bar for process management, again
+- [Mendix](https://www.mendix.com/) - Erstellen Sie Anwendungen, die schon heute einen Unterschied machen. - Low-Code plattform
+- [Bettyblocks](https://www.bettyblocks.com/) - Enable more of your workforce to build applications with the #1 Citizen Development platform for enterprises
+- [Outsystems](https://www.outsystems.com/platform/) - Change the way you build software with OutSystems. Using high-productivity, connected, and AI-assisted tools, developers can build and deploy a full range of applications — from consumer apps to critical business systems — fast, right, and for the future.
+- [Ninoc](https://ninox.com/de) - Digitalisieren Sie Ihre Prozesse jetzt - nocode startup für Prozess Optimierung
+
+## Backend services with nocode
+- [Busywork](https://busywork.co) - Busywork reduces backend development time by 10x, eliminates DevOps, and scales automatically. We play well with React, Angular, and Vue.
+- [8base](https://www.8base.com/) - The best way to build, run and grow professional-grade web and mobile applications that power your business. - GraphQL, SQL, serverless
+- [Are there any good Database/API no-code options?](https://www.indiehackers.com/post/are-there-any-good-database-api-no-code-options-adf9818b7b)
+
+## API
+- [Autocode](https://autocode.com/) - Instant API automation with code. Generate Webhook code for connection of two services
+- [NoCodeAPI](https://nocodeapi.com/) - Save time to Setup Server & Code for APIs
+
+## Examples
+- [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
+- [Format twitter post and add them to buffer](https://zapier.com/shared/c2308cd444c570227f6c90dbdad49fc379343fdf)
+
+## Agentcies
+- [02100](https://www.02100.io) - Digitaler Vorreiter werden. Mit Low-Code. - NoCode Agentur aus Hamburg
 
 ## Funny Connent
-https://nocodegifs.com/#
+- [Nocode gifs](https://nocodegifs.com/) - It's NoCode GIFs y'all!
 
-Tutorials & List of Tools
-https://www.makerpad.co/
-https://nocodehq.com
-https://www.nucode.co/build - List of Tool, Tutorials and platform
-https://x.workandwhistle.co/no-code-list/ -list
-https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight
+## Sell Digital Products
+- [Service Provider](https://spp.co/) - Agency Management & Client Portal Software - Digital Products and Memberships
+- [Payhip](https://payhip.com/) - Payhip is the easiest way to sell digital downloads & memberships
 
-https://www.automators.academy/ - Automation Tutorials
-
-Sell Digital Products
-https://spp.co/ - Digital Products and Memberships
-https://payhip.com/ - D Product and Memberships
-
-Artikels
-https://qz.com/work/1640095/five-productivity-and-creativity-apps-popular-in-silicon-valley/
-https://x.workandwhistle.co/demos/ - Blog & Tutorials
-
-Create Websites
-https://www.boundlesslabs.com
-https://bubble.is/showcase —> Create Website!
-https://coda.io/welcome?ref=nocodelist —> Docs on steriods Try!
-https://www.bildr.com/ - Ähnlich die Webflow
-
-https://stacker.app/ - Turn your spreadsheets into applications
-
-https://retool.com/ - Build an tool for controlling without code
-https://www.memberstack.io/ - Member Site connect with Cards, Hubspot etc.
-https://steinhq.com/?ref=appydev - Google Sheet 2 Site
+## Articels
+- [What Is No Code?](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)
+- [The Rise of “No Code](https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d)
+- [Five “creator” apps that have captured Silicon Valley’s attention](https://qz.com/work/1640095/five-productivity-and-creativity-apps-popular-in-silicon-valley/) - notions, carrd.co, figma, teachable, substack
+- [My Journey to Building a No-Code Prototype](https://www.producthunt.com/stories/my-journey-to-building-a-no-code-prototype)
+- [10 No-code tools to power your email newsletter](https://radreads.co/compare-substack-mailerlite-convertkit/)
+- [30 no-code and low-code tools for your next project](https://makermag.com/30-no-code-tools/)
 
 
-Plugins, Ad-ons, Themes
-https://zeroqode.com/blocks - building blogs for bubble
+## Further tools
+- [Substack](https://substack.com/) - Start a newsletter. Build your community. Make money from subscriptions.
+- [Gumroad](https://gumroad.com/) - a no-code payment solution that is easy to setup and simple to scale. 
+- [Shopify](https://www.shopify.com/) - Anyone, anywhere, can start a business. Create a ecommerce page
+- [Sharetribe](https://www.sharetribe.com/) - Build a successful marketplace business. Fast.
+- [Scapic](https://www.scapic.com/) - We started Scapic with a goal to be the simplest way you create, share and explore AR, VR & 3D experiences.
+- [Memberstack](https://www.memberstack.io/) - Beautiful user login & payments for modern web applications. Connect with carrd, Hubspot etc.
+- [MemberSpace](https://www.memberspace.com/) - Turn any part of your website into members-only with just a few clicks
+- [Hubspot](https://www.hubspot.de) - Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
+- [Beamer](https://www.getbeamer.com/) - Announce your latest updates and get powerful feedback with an in-app notification center, widgets and changelog.
+- [Buy me a coffee](https://www.buymeacoffee.com/) - Buy Me a Coffee is a simple, meaningful way to fund your creative work.
 
-E-Mail Newsletter
-https://substack.com/
-
-https://www.hubspot.de - E-Mail marketing tool
-
-
-NoCode For Comapanies
-https://kissflow.com/ - We raised the bar for process management, again
-https://www.mendix.com/de/ -> Low-Code plattform
-https://www.bettyblocks.com/ - starts at 1250$
-
-
-Mobile App Services
-https://thunkable.com/
-Adalo Pricing 
-https://www.glideapps.com/ - Create an App with Google Sheet
-
-Backend Services with NoCode
-https://busywork.co/pricing
-https://www.8base.com/
-https://www.indiehackers.com/post/are-there-any-good-database-api-no-code-options-adf9818b7b
-
-Scrapping von Seiten
-https://simplescraper.io/
-https://apify.com/
-https://www.scraperapi.com/
-https://dashblock.com/
-
-https://distill.io/ - Track Websites Parts and get an alert
-
-Automation
-https://stdlib.com —> Zapier
-https://parabola.io
-
-Enterprise Solutions
-https://www.outsystems.com/platform/
-
-Chat Bot erstellen
-https://landbot.io/pricing/
-
-ML and AI Tools
-https://www.obviously.ai/
-https://analyticsindiamag.com/top-10-tools-for-no-code-ai-ml/
-https://teachablemachine.withgoogle.com/
-https://pair-code.github.io/what-if-tool/
-https://developers.google.com/ml-kit
-
-
-My journey to building a no-code prototype | Product Hunt
-Create an App from a Google Sheet in Minutes · Glide
-Make your computer work for you.
-Your first email newsletter: Substack, Mailerlite or Convertkit?
-Free Carrd Templates For Your Next Project.
-Build Your Own App
-How I use Roam to take notes
-Build APIs without any hassle
-30 no-code and low-code tools for your next project
-
-Free Carrd Templates For Your Next Project.
-Jacob Bøtter on Twitter
-Tutorials
-SaaS focused Website and Landing Page Builder
-https://sheetui.com/#testimonials
-The Website Platform for Startups
-Share Audio On Social Media By Turning It Into Custom Videos
-NoCodeDevs
-Plans & pricing
-Bold | Software for your business, powered by your spreadsheets
