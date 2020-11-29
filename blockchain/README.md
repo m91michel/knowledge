@@ -162,7 +162,7 @@ BMW Leeched Links
 - [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
 
 
-
+## Resources
 - [Gartner Identifies the Four Phases of the Blockchain Spectrum](https://www.gartner.com/en/newsroom/press-releases/-2019-10-23-gartner-identifies-the-four-phases-of-the-blockchain-spectrum)
 - [The Reality of Blockchain](https://www.gartner.com/smarterwithgartner/the-reality-of-blockchain/) - Understand how blockchain will evolve until 2030 and today’s hype versus reality.
 - [Cryptocurrencychart](https://www.cryptocurrencychart.com/)
@@ -195,6 +195,6 @@ BMW Leeched Links
 - [Superhero](https://superhero.com/) - Social platform with a mission
 - [Roll](https://tryroll.com/) - Roll is blockchain infrastructure for social money
 - [LIGHTNITE](https://lightnite.io/) - Multiplayer battle-royale game with in-game bitcoin rewards and a minimalistic low-poly & cartoonish design.
-
+- [The 20 Blockchain Projects With the Most Developer Activity on Github](https://media.consensys.net/the-20-blockchain-projects-with-the-most-developer-activity-on-github-6e0d6e748b8d) - Status, Storj, Augur, High Fidelity, Cosmos
 
 
