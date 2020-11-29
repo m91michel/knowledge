@@ -158,6 +158,8 @@ BMW Leeched Links
 - [Byte Tree BTC](https://terminal.bytetree.com/bitcoin)
 - [Hyperbitcoinization: Winner Takes All](https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f) - by ObiWan Kenobit
 - [Dollar Cost Averaging Bitcoin](https://dcabtc.com/?sd=2017-12-17)
+- [500 Headlines About Bitcoin](https://www.500headlinesaboutbitcoin.com/) - Bitcoin has a branding problem. It’s known as a wildly unstable financial asset, doomed fad, brogrammer fantasy, and blah blah blah. So I subjected it to a favorite branding exercise. In the old days, copywriters wrote 100 good headlines to get one great headline.
+- [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
 
 
 
@@ -172,30 +174,27 @@ BMW Leeched Links
 - [Borderless governance.](https://democracy.earth/#/)- Search DAOs by address or proposal
 - [Polkadot](https://polkadot.network/) - Polkadot development is on track to deliver the most robust platform for security, scalability and innovation.
 
-
-
 - [Donate in Crypto](https://donateincrypto.com/) - Help people in need around the world, and support the causes you care about. Make a donation in crypto to a nonprofit.
 - [Codefi by Consensys](https://codefi.consensys.net/) - Codefi is the blockchain application suite powering commerce and finance, built to optimize business processes and digitize financial instruments.
 
-evan.ethereum.eth on Twitter
-Home
-500 Headlines About Bitcoin
-Ameen Soleimani 👹 on Twitter
-The sweetest way to save bitcoin
-What is DeFi?
-Conflux: Where Valuable Bits are Exchanged and Validated
-ameen.eth 👹 on Twitter
-8 Projects Making Waves in the Crypto Space
-Home | Nervos Network
-Unstoppable Domains
-Sia veröffentlicht neues Update und arbeitet an dezentralem Streaming
-Dmitriy Berenzon on Twitter
-Crypto Management Made Easy
-Overview
-Civic Wallet - Frequently Asked Questions (FAQ)
-Social platform with a mission
-Roll - The new standard in social money
-LIGHTNITE
+- [Filecoin.io](https://filecoin.io/) - Filecoin is a decentralized storage network designed to store humanity's most important information
+- [OpenZeppelin](https://openzeppelin.com/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products.
+- [Vocdoni.io](https://vocdoni.io/) - Vocdoni provides secure voting, reliable communications and the necessary tools to coordinate your collective.
+- [Rsk.co](https://www.rsk.co/) - RSK technology, building on Bitcoin to create the Internet of Value
+- [Just.Game](https://just.team/just-game-whitepaper-release-testnet-edition/) - A female AI named CURVY that uses you financially and emotionally to keep itself alive. Maybe the first AI findom?
+- [ZimDai](https://www.reddit.com/r/ethereum/comments/edmol8/the_people_of_zimbabwe_are_trapped_in_an_abusive/?utm_medium=android_app&utm_source=share) - A proposal to colonize Zimbabwe with DAI, leveraging decentralized exchanges and black market transfer agents. 
+- [Moloch](https://github.com/molochventures/moloch) - Moloch is designed to support legally compliant for-profit DAOs, as well as fixing rough edges in Moloch v1 when used for grants.
+- [What is Defi?](https://defipulse.com/blog/what-is-defi/)
+- [Conflux](https://confluxnetwork.org/) - Conflux is an open network for an emerging world of digital assets and decentralized applications
+- [8 Projects Making Waves in the Crypto Space](https://medium.com/shapeshift-stories/8-projects-making-waves-in-the-crypto-space-5e98fc60fe26) - Brave, Cardano, MakerDAO, Polkadot, Grin, Gitcoin, Wyre, Decentraland  
+- [Nervos Network](https://www.nervos.org/) - The Multi-asset, Store of Value Blockchain
+- [Siacoin](https://sia.tech/) - Decentralized storage for the post-cloud world.
+- [Twitter: There have been *nine* new zero-knowledge proof systems released in 2019 alone.](https://twitter.com/dberenzon/status/1226925083781816320)
+- [Set](https://www.tokensets.com/) - Crypto Portfolios From The Pros
+- [Gnosis-safe.io](https://gnosis-safe.io/) - The most trusted platform to manage digital assets on Ethereum for investors
+- [Superhero](https://superhero.com/) - Social platform with a mission
+- [Roll](https://tryroll.com/) - Roll is blockchain infrastructure for social money
+- [LIGHTNITE](https://lightnite.io/) - Multiplayer battle-royale game with in-game bitcoin rewards and a minimalistic low-poly & cartoonish design.
 
 
 
