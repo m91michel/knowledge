@@ -1,11 +1,9 @@
-IyMgTm90IHJlbGF0ZWQKLSBbUmFkcmVhZHNdKGh0dHBzOi8vcmFkcmVhZHMu
-Y28vKSAtIEJsb2cKLSBbUXVhcnR6XShodHRwczovL3F6LmNvbS9hYm91dC8p
-IC0gR2xvYmFsIG5ld3MgYW5kIGluc2lnaHRzIGZvciBhIG5ldyBnZW5lcmF0
-aW9uIG9mIGJ1c2luZXNzIGxlYWRlcnMKLSBbV2F2dmUuY29dKGh0dHBzOi8v
-d2F2dmUuY28vKSAtIFR1cm4geW91ciBwb2RjYXN0IG9yIG11c2ljYWwgYXVk
-aW8gaW50byBlbmdhZ2luZyBhbmltYXRlZCB2aWRlb3MgdG8gc2hhcmUgb24g
-c29jaWFsIG1lZGlhIQotIFtZb3VUdWJlIC0gRWluIHNlbGJzdHPDvGNodGln
-ZXMgQXJndW1lbnQsIGRpZSBXZWx0IHp1IGVpbmVtIGJlc3NlcmVuIE9ydCB6
-dSBtYWNoZW5dKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cnZz
-a01IbjBzcVEpCi0gW1RoZSBIRUFSVEVEIGNvZGVwZW5zIG9mIDIwMTddKGh0
-dHBzOi8vY29kZXBlbi5pby8yMDE3L3BvcHVsYXIvcGVucy8pCg==
+## Not related
+- [Radreads](https://radreads.co/) - Blog
+- [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
+- [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
+- [YouTube - Ein selbstsüchtiges Argument, die Welt zu einem besseren Ort zu machen](https://www.youtube.com/watch?v=rvskMHn0sqQ)
+- [The HEARTED codepens of 2017](https://codepen.io/2017/popular/pens/)
+
+sadsa
+nsadsa
