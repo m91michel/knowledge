@@ -6,11 +6,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [YouTube - Ein selbstsüchtiges Argument, die Welt zu einem besseren Ort zu machen](https://www.youtube.com/watch?v=rvskMHn0sqQ)
 - [The HEARTED codepens of 2017](https://codepen.io/2017/popular/pens/)
 
-
-- [ Wie kann ich mein LastiBike mieten?](https://www.lastibike.de/howitwork-de.php) - So gehts
-
-- [�ber mich](https://sedl.at/Ueber_mich) - 
-
-- [](https://casebitcoin.com/) - 
-
-- [Get new users for your startup without spending a dime](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
+## Added by n8n workflow
