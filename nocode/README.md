@@ -23,6 +23,8 @@ creativity.
 - [AirTable list with nocode tools](https://airtable.com/shrQ28vq7jyjtuYgI/tbltEBZse1p8k0smE?backgroundColor=grayLight)
 - [Work x Whistle](https://x.workandwhistle.co/demos/) - Blog & Tutorials
 - [Automators.academy](https://www.automators.academy/) - It's time to put your business operations on autopilot so you can focus on your product. - course, automation tutorials
+- [Visualmakers](https://visualmakers.de/) - tutorial, german
+- [Nocode portal](https://www.nocodeportal.com/) - tutorials, showcase, Interviews
 
 ## Build static website or web applications
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
@@ -63,6 +65,8 @@ creativity.
 - [Parabola](https://parabola.io) - Parabola makes it easy to automate your manual, repetitive data tasks
 - [Siri Shortcuts Catalog](https://www.matthewcassinelli.com/sirishortcuts/)
 - [Article: Automated workflows are eating the world](https://venturebeat.com/2020/11/21/workflows-are-eating-the-world/)
+- [Luhhu](https://www.luhhu.com/) - We’re Zapier Experts and we’re going to help you automate your business
+- [4 workflows to better manage your brand's social media](https://zapier.com/blog/social-media-marketing-automation/?utm_source=Iterable&utm_medium=email&utm_campaign=itbl-gbl-eng-email-blog_automate_google_apps_marketer_11302020_1752203)
 
 ## New type of documents
 - [Coda.io](https://coda.io/) - It's time for a new doc, that brings words, data and teams together
