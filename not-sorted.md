@@ -13,3 +13,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Get new users for your startup without spending a dime](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
 
 - [](https://tracktherecovery.org/) - 
+
+
+- [Handverlesene Apps für Mac und iOS](https://setapp.com/de) - Setapp ist eine große Sammlung leistungsstarker Mac-Apps, die im Abonnement angeboten wird. Registriere dich und erhalte sofort vollen Zugriff auf Spitzensoftware. Erkunden, entdecken, genießen.
