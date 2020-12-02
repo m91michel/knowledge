@@ -20,3 +20,12 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Five Steps To Faster Market Research](https://www.forbes.com/sites/theyec/2020/11/23/five-steps-to-faster-market-research/) - Research is absolutely critical to making informed strategic and product decisions. And as a product manager or founder, this market research must be carefully balanced with speed, efficacy and an iterative process.
 
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
+
+- [
+                                    Color & typography tools for
+                                    
+                                    
+                                         web developers
+                                        and
+                                         digital designers.
+                                ](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
