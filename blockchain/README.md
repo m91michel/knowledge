@@ -42,17 +42,6 @@
 - [The Top 13 Bitcoin, Blockchain & Cryptocurrency APIs](https://rapidapi.com/blog/bitcoin-blockchain-cryptocurrency-apis/)
 - [The Top 64 Trading Bot Open Source Projects](https://awesomeopensource.com/projects/trading-bot)
 
-## Bitcoin Improvements
-- [Fibre](https://bitcoinfibre.org/) - The Fast Internet Bitcoin Relay Engine (FIBRE) is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber. 
-- [BTC Relay](http://btcrelay.org/) - A bridge between the Bitcoin blockchain & Ethereum smart contracts
-- [Erlay: Eine Methode, um die Konnektivität des Bitcoin-Netzwerks zu verbessern](https://bitcoinblog.de/2019/05/29/erlay-eine-methode-um-die-konnektivitaet-des-bitcoin-netzwerks-zu-verbessern/)
-
-## Privacy
-- [Samourai Wallet](https://samouraiwallet.com/) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
-- [Wasabi](https://wasabiwallet.io/) - Wasabi is an open-source, non-custodial, privacy-focused Bitcoin wallet for Desktop, that implements trustless CoinJoin.
-- [BTCPay Server](https://btcpayserver.org/) - BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free.
-
-
 MetaCoin Defi
 - [A Challenger to the DeFi King Emerges With MetaCoin](https://thedefiant.substack.com/p/a-challenger-to-the-defi-king-emerges?token=eyJ1c2VyX2lkIjo5Njc3MDQsInBvc3RfaWQiOjI3MjYzNCwiXyI6InY2aVJvIiwiaWF0IjoxNTgxNTc5NTcyLCJleHAiOjE1ODE1ODMxNzIsImlzcyI6InB1Yi0xMTI1OSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.aQuNrozqVR-v22Ig7Ovv_AByfM89mASkcapbvuogeVA)
 
@@ -150,17 +139,6 @@ BMW Leeched Links
 
 ## Energy transition
 - [Lition](https://lition.de/) - Lition ist ein digitaler Marktplatz der Konsumenten direkt mit Erzeugern regenerativer Energien verbindet. Einfach, fair und preiswert.
-
-## BTC
-- [Der Bitcoin-Standard: Die dezentrale Alternative zum Zentralbankensystem](https://www.amazon.de/dp/3982109507/ref=cm_sw_r_oth_api_i_engTDbVD34FG1)
-- [Aprycot](https://aprycot.media/thek/) - Das ist unser Kaninchenbau! Hier findest du lauter Links zu wichtigen Wissensgrundlagen rund um Bitcoin auf Deutsch!
-- [Jameson Lopp's Bitcoin Resources](https://www.lopp.net/bitcoin-information.html)
-- [Byte Tree BTC](https://terminal.bytetree.com/bitcoin)
-- [Hyperbitcoinization: Winner Takes All](https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f) - by ObiWan Kenobit
-- [Dollar Cost Averaging Bitcoin](https://dcabtc.com/?sd=2017-12-17)
-- [500 Headlines About Bitcoin](https://www.500headlinesaboutbitcoin.com/) - Bitcoin has a branding problem. It’s known as a wildly unstable financial asset, doomed fad, brogrammer fantasy, and blah blah blah. So I subjected it to a favorite branding exercise. In the old days, copywriters wrote 100 good headlines to get one great headline.
-- [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
-
 
 ## Resources
 - [Gartner Identifies the Four Phases of the Blockchain Spectrum](https://www.gartner.com/en/newsroom/press-releases/-2019-10-23-gartner-identifies-the-four-phases-of-the-blockchain-spectrum)

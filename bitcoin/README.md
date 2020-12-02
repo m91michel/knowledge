@@ -1,7 +1,27 @@
 # Bitcoin
 
-## BTC Indikatoren
+## What is bitcoin?
+> Bitcoin is a digital currency created in January 2009 following the housing market crash. It follows the ideas set out in a whitepaper by the mysterious and pseudonymous Satoshi Nakamoto.1﻿ The identity of the person or persons who created the technology is still a mystery. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and is operated by a decentralized authority, unlike government-issued currencies.
+> [Source](https://www.investopedia.com/terms/b/bitcoin.asp)
+## Interesting Resources
+- [Aprycot](https://aprycot.media/thek/) - Das ist unser Kaninchenbau! Hier findest du lauter Links zu wichtigen Wissensgrundlagen rund um Bitcoin auf Deutsch!
+- [Jameson Lopp's Bitcoin Resources](https://www.lopp.net/bitcoin-information.html)
+- [Der Bitcoin-Standard: Die dezentrale Alternative zum Zentralbankensystem](https://www.amazon.de/dp/3982109507/ref=cm_sw_r_oth_api_i_engTDbVD34FG1)
+- [THE BITCOIN STANDARD](https://saifedean.com/book/)
+- [Hyperbitcoinization: Winner Takes All](https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f) - by ObiWan Kenobit
+- [Dollar Cost Averaging Bitcoin](https://dcabtc.com/?sd=2017-12-17)
+- [500 Headlines About Bitcoin](https://www.500headlinesaboutbitcoin.com/) - Bitcoin has a branding problem. It’s known as a wildly unstable financial asset, doomed fad, brogrammer fantasy, and blah blah blah. So I subjected it to a favorite branding exercise. In the old days, copywriters wrote 100 good headlines to get one great headline.
+- [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
+- [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 
+## BTC as Investment
+### Charts
+- [woobull.com](http://charts.woobull.com/) - Also see blog
+- [Fiatleak](https://fiatleak.com)
+- [cryptoquant](https://cryptoquant.com/overview/btc-indicator)
+- [coinmetrics](https://coinmetrics.io/charts/#assets=btc)
+- [Byte Tree BTC](https://terminal.bytetree.com/bitcoin)
+- [Market Cycle Charts](https://www.lookintobitcoin.com/charts/)
 ### Stock-to-flow
 > SF = stock / flow
 - [Plan B - creator of the S2F Model](https://100trillionusd.github.io/)
@@ -20,28 +40,27 @@
 
 ### Mayer Multiple
 - [HOW THE MAYER MULTIPLE WORKS](https://www.theinvestorspodcast.com/bitcoin-mayer-multiple/)
+
 ### BTC Long vs Short
-https://blockchainwhispers.com/bitmex-position-calculator/
-https://www.coinfarm.online/
+- [BITCOIN LONGS VS SHORTS](https://blockchainwhispers.com/bitmex-position-calculator/)
+- [Bitfinex BTC USDT by coinfarm](https://www.coinfarm.online/bitfinex/)
 
 ### Rainbow Chart
-- https://www.blockchaincenter.net/bitcoin-rainbow-chart/
-
+- [Bitcoin Rainbow Chart (live)](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
 ### HodlWave 
 - [Bitcoin UTXO Age Distribution](https://hodlwave.com)
-## Further Charts
-- [woobull.com](http://charts.woobull.com/) - Also see blog
-- [Fiatleak](https://fiatleak.com)
-- [cryptoquant](https://cryptoquant.com/overview/btc-indicator)
-- [coinmetrics](https://coinmetrics.io/charts/#assets=btc)
 
-## Trading Strategien
-https://www.theinvestorspodcast.com/bitcoin-mayer-multiple/
-https://www.lookintobitcoin.com/charts/
+## Technology
+- [Fibre](https://bitcoinfibre.org/) - The Fast Internet Bitcoin Relay Engine (FIBRE) is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber. 
+- [BTC Relay](http://btcrelay.org/) - A bridge between the Bitcoin blockchain & Ethereum smart contracts
+- [Erlay: Eine Methode, um die Konnektivität des Bitcoin-Netzwerks zu verbessern](https://bitcoinblog.de/2019/05/29/erlay-eine-methode-um-die-konnektivitaet-des-bitcoin-netzwerks-zu-verbessern/)
 
-# Books
-- [THE BITCOIN STANDARD](https://saifedean.com/book/)
-# Interesting articles
+## Wallets & Privacy
+- [Samourai Wallet](https://samouraiwallet.com/) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
+- [Wasabi](https://wasabiwallet.io/) - Wasabi is an open-source, non-custodial, privacy-focused Bitcoin wallet for Desktop, that implements trustless CoinJoin.
+- [BTCPay Server](https://btcpayserver.org/) - BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free.
+
+## Interesting articles
 - [Bitcoins On-Chain-Verhalten fürs Investment nutzen: Neuer TA-Indikator](https://www.btc-echo.de/bitcoins-on-chain-verhalten-fuers-investment-nutzen-neuer-ta-indikator/)
 - [Top Dormant for 1 years Bitcoin Addresses](https://bitinfocharts.com/top-100-dormant_1y-bitcoin-addresses.html)
 - [Philip Swift on Twitter](https://twitter.com/positivecrypto/status/1202626554997727236?s=12)
