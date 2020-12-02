@@ -31,3 +31,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
                                 ](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
 
 - [Grow  your online business.](https://growthhacklist.com/) - When you need a database with the best growth and marketing ideas, quick ways to increase your conversion rate, tipps to improve SEO rankings, social media marketing strategies, and more, Growthhacklist got you covered.
+
+- [Blockchain vs. Internet – Wo liegt die Revolution? ](https://www.btc-echo.de/blockchain-vs-internet-wo-liegt-die-revolution/) - Blockchain vs. Internet – wohin führt uns die Blockchain? Was kann man aus der Geschichte des Internets lernen?
