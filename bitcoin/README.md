@@ -74,7 +74,11 @@
 - [TD Sequential: Der Indikator von Bitcoin Trader Tone Vays](https://www.btc-echo.de/td-sequential-der-indikator-von-bitcoin-trader-tone-vays/)
 - [5 Bullishe Bitcoin Charts, die man einfach kennen muss](https://www.btc-echo.de/5-bullishe-bitcoin-charts-die-du-kennen-musst/)
 - [Bitcoin Outlook 2020](https://medium.com/@CryptoKea/bitcoin-outlook-2020-972237fe5fef)
-## Twitter
+## Persons & Tweets
+- [Ray Dalio](https://www.linkedin.com/pulse/paradigm-shifts-ray-dalio/)
+- [Julian Hosp](https://www.youtube.com/channel/UCseNUrq7mUUWqTspr4QJ9eg)
+- [@APompliano](https://twitter.com/apompliano?lang=de) - I read the [pompletter](https://pomp.substack.com)
+
 CryptoKea on Twitter
 https://twitter.com/cryptokea/status/1207684352412454912?s=12
 https://twitter.com/cryptokea/status/1207684352412454912?s=12
@@ -86,8 +90,6 @@ https://twitter.com/colegarnerbtc/status/1212546960596463616?s=12
 
 GeertJancap on Twitter
 https://twitter.com/geertjancap/status/1217552995065442307?s=12
-## Ray Dalio
-https://www.linkedin.com/pulse/paradigm-shifts-ray-dalio/
 
 
 
