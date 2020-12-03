@@ -67,6 +67,7 @@ creativity.
 - [Article: Automated workflows are eating the world](https://venturebeat.com/2020/11/21/workflows-are-eating-the-world/)
 - [Luhhu](https://www.luhhu.com/) - We’re Zapier Experts and we’re going to help you automate your business
 - [4 workflows to better manage your brand's social media](https://zapier.com/blog/social-media-marketing-automation/?utm_source=Iterable&utm_medium=email&utm_campaign=itbl-gbl-eng-email-blog_automate_google_apps_marketer_11302020_1752203)
+- [Integromat](https://www.integromat.com/en/)
 
 ## New type of documents
 - [Coda.io](https://coda.io/) - It's time for a new doc, that brings words, data and teams together

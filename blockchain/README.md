@@ -11,6 +11,7 @@
 - [Vernetzte Industrie: 100 Japanische Hersteller teilen Produktionsdaten via Blockchain](https://www.btc-echo.de/vernetzte-industrie-100-japanische-hersteller-teilen-produktionsdaten-via-blockchain/)
 - [Why There is No “Ethereum Killer”](https://medium.com/@eolszewski/why-there-is-no-ethereum-killer-cf99b821a6b0)Killer
 - [Will Blockchain(s) Eat the Marketplace Stack?](https://medium.com/point-nine-news/will-blockchain-s-eat-the-marketplace-stack-cf5952889aa0)
+- [Blockchain vs. Internet – Wo liegt die Revolution?](https://www.btc-echo.de/blockchain-vs-internet-wo-liegt-die-revolution/) - Blockchain vs. Internet – wohin führt uns die Blockchain? Was kann man aus der Geschichte des Internets lernen?
 
 ## Filesystem
 - [Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide](https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a)
