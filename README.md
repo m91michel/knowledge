@@ -14,3 +14,4 @@ A list of some interesting topics
 - [Blockchain](blockchain)
 - [Indie Maker & SaaS](indie-saas)
 - [Development](development)
+- [Marketing](business/marketing.md)
