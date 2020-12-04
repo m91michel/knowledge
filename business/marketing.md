@@ -1,32 +1,19 @@
 # Marketing
 
-Awesome Lists
-https://appy-dev.netlify.app/# - list of apps
-http://www.boookmarks.com/ - bootstrap links
-https://toolsformakers.com/ - tools for makers
-https://startupstash.com/explore/
-https://www.heymarketers.com/ - Marketing Jobs
-https://www.valendigital.co.uk/blog/26-amazing-free-browser-extensions-for-marketers-2019 - Marketing Chrome Tools
-https://www.junge-gruender.de/kostenlose-tools/ - Tools für Gründer
-https://logobly.com/blog/10-no-design-tools/ - Design Tools
-https://undesign.learn.uno/ - Design List
+## Generals tools and resources
+- [A crowdsourced database of cold email templates by 99leads.io](https://99leads.io/) - A free & growing database of cold email templates.
+- [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - It’s a hand-picked collection of resources for solving practical marketing tasks
+- [toolsformakers.com](https://toolsformakers.com/) - a hand curated directory of tools for makers to work on their dream projects.
+- [26 Amazing Free Browser Extensions for Marketers](https://www.valendigital.co.uk/blog/26-amazing-free-browser-extensions-for-marketers-2019) - Marketing Chrome Tools
+- [appy-dev.netlify.app](https://appy-dev.netlify.app/#) - list of apps
+- [marketingunited.org](https://marketingunited.org/wiki/Hauptseite) - Marketing United bietet dir hochwertiges Marketing-Wissen und hilfreiche Online-Marketing-Tools um online (mehr) Geld zu verdienen.
 
-Marketing
-https://www.coachy.net/de/features/ - Online Kurs Plattform
-https://raidboxes.io/ - Wordpress Hosting mit extra Features
-https://www.copecart.com/marketplace - Affiliate Marketplace, um DigiStore Produkte weiter zu geben
-https://jannisproduction.de/ - Image Videos - Auch gut für inspiration
-https://marketingunited.org/wiki/Hauptseite - Marketing Seite mit Information
-https://calvinhollywood-blog.de/ - Solo Typ, der im Marketing Umfeld tätig ist
-https://katharina-lewald.de/ - Online Business Kurs
-https://www.marit-alke.de/ - Online Kurse erstellen
-https://cashoderkarma.de/ - Money Mindset Blog
-https://99leads.io/ - cold email examples
-https://github.com/goabstract/Marketing-for-Engineers - marketing for engineers
-https://github.com/bradtraversy/design-resources-for-developers - design resources for developers
-https://carbon.now.sh/ - create code example images
 
-## Blog
+## Landingpages
+- [coachy.net](https://www.coachy.net/de/features/) - Erstelle im Handumdrehen professionelle, mobil-optimierte Verkaufsseiten für deinen Onlinekurs.
+- [raidboxes.io](https://raidboxes.io/) - Blitzschnelles, sicheres und klimapositives WordPress Hosting für Agenturen, Freelancer und WordPress Profis. Mit unseren Features sparst du beim WordPress Hosting, der Entwicklung und Verwaltung deiner Projekte garantiert Zeit und Geld.
+
+## Creating a blog
 - [BlogMojo](https://www.blogmojo.de/blogger-tools/)
 
 ## Social Media
@@ -75,3 +62,9 @@ https://carbon.now.sh/ - create code example images
 - [Autoresponder: Was ist das beste Werkzeug für automatisierte E-Mails?](https://www.emailtooltester.com/blog/autoresponder/)
 - [Best Email Marketing Automation Tools: Sendinblue vs Drip vs ConvertKit vs Mailchimp vs Mailjet vs Infusionsoft](https://www.codeinwp.com/blog/best-email-marketing-automation-tools/)
 - [6 Schritte, um einen E-Mail-Funnel zu erstellen, der deine Leads automatisch in Kunden verwandelt](https://www.chimpify.de/marketing/email-funnel)
+
+
+
+## Further Stuff
+- [copecart.com](https://www.copecart.com/marketplace) - CopeCart ist eine Shopsoftware, die sich um automatisierten Rechnungsversand, anbieten der Bezahlarten und Auszahlung Ihrer Einnahmen kümmert. Einmal anmelden, alles drin. - Affiliate Marketplace, um DigiStore Produkte weiter zu geben.
+- [heymarketers.com](https://www.heymarketers.com/ - Marketing Jobs
