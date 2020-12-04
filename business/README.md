@@ -22,3 +22,6 @@
 - [startupresources.io](https://startupresources.io/) - Startup Tools Delivered To Your Inbox
 - [​Online ​Business Tools](https://petrahaasmann.com/online-business-tools/)
 - [betalist.com](https://betalist.com/=)
+- [junge-gruender.de](https://www.junge-gruender.de/kostenlose-tools/ - Tools für Gründer
+- [boookmarks.com](http://www.boookmarks.com/) - To the left you will find actionable categories for bootstrapping a business.
+- [startupstash.com](https://startupstash.com/explore/) - We've listed the collection of tools to help startups around the globe to find the right fit for any needs. BTW, we added filters to make the search process easier for you.
