@@ -3,6 +3,9 @@
 ## No Code tools
 Checkout no code tools [here](../nocode/)
 
+## Online tools
+- [carbon.now.sh](https://carbon.now.sh/) - create code example images
+
 ## Unsorted
 - [betalist](https://betalist.com) - BetaList is a community of makers and early adopters showcasing their startups and exchanging feedback.
 - [Martechbase](https://martechbase.com/) - Where marketing teams make sense of their tech stack
@@ -17,3 +20,10 @@ Checkout no code tools [here](../nocode/)
 - [The 25 most recommended programming books of all-time.](https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel)
 - [Pierre de Wulf](https://www.daolf.com/posts/) - Maker of ScrapingBee - Tech Explorer, Python Lover and Indie Hacker.
 - [Glorifyapp](https://www.glorifyapp.com) - Create high converting product images in a few clicks
+
+
+
+- [katharina-lewald.de](https://katharina-lewald.de/) - Online Business Kurs
+- [marit-alke.de](https://www.marit-alke.de/) - Online Kurse erstellen
+- [cashoderkarma.de](https://cashoderkarma.de/) - Money Mindset Blog
+- [calvinhollywood-blog.de](https://calvinhollywood-blog.de/) - Solo Typ, der im Marketing Umfeld tätig ist

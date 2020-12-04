@@ -9,7 +9,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 ## Added by n8n workflow
 
 - [Get new users for your startup without spending a dime](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
-- [Get new users for your startup without spending a dime](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
 - [](https://tracktherecovery.org/) - 
 - [Handverlesene Apps für Mac und iOS](https://setapp.com/de) - Setapp ist eine große Sammlung leistungsstarker Mac-Apps, die im Abonnement angeboten wird. Registriere dich und erhalte sofort vollen Zugriff auf Spitzensoftware. Erkunden, entdecken, genießen.
 - [Five Steps To Faster Market Research](https://www.forbes.com/sites/theyec/2020/11/23/five-steps-to-faster-market-research/) - Research is absolutely critical to making informed strategic and product decisions. And as a product manager or founder, this market research must be carefully balanced with speed, efficacy and an iterative process.
