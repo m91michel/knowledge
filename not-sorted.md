@@ -46,3 +46,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [   Your Place to Connect With Startup Founders  Join FoundersList to:CofoundersGroupsDeals](https://founderslist.com/) - Find your next startup or business Cofounder. Find startup and founder Events. Network and connect with Founders and Experts. Find recommended Services and Professionals.
 
 - [](https://iworkedon.com/) - I worked on ... Easily build a portfolio of the products you've built to share with the world.
+
+- [LATKA: Top SaaS Companies](https://getlatka.com/) - The Top B2B SaaS Companies. CEO's share revenue, customer count, growth rates, churn, arpu, cac, ltv, and more!
