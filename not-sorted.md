@@ -15,3 +15,26 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
 - [Colors and fonds](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
 - [Grow  your online business.](https://growthhacklist.com/) - When you need a database with the best growth and marketing ideas, quick ways to increase your conversion rate, tipps to improve SEO rankings, social media marketing strategies, and more, Growthhacklist got you covered.
+
+
+- [
+              These free tools for developers are 🔥🔥🔥
+            
+  
+  
+  Hosts, Servers for deoplying you frontend/backend
+
+  
+  
+  Automation Tools
+
+  
+  
+  Nocode Tools
+
+  
+  
+  SEO/Digital Maeketing/Promotion/Legal Tools
+
+            Log in to continue
+          ](https://dev.to/fayaz/this-free-tools-for-developers-are-45p3) - This is a very opinionated list of tools and apps that will help you up your game as a developer. Tagged with webdev, javascript, beginners, productivity.
