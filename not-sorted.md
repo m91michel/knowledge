@@ -42,3 +42,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
 
 - [When will you be worth $1 million?](https://usefirst.me/) - Get on the path to wealth - a free and secure app helping you achieve your financial goals, cancel subscriptions, manage and save money.
+
+- [   Your Place to Connect With Startup Founders  Join FoundersList to:CofoundersGroupsDeals](https://founderslist.com/) - Find your next startup or business Cofounder. Find startup and founder Events. Network and connect with Founders and Experts. Find recommended Services and Professionals.
