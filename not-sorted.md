@@ -40,3 +40,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
           ](https://dev.to/fayaz/this-free-tools-for-developers-are-45p3) - This is a very opinionated list of tools and apps that will help you up your game as a developer. Tagged with webdev, javascript, beginners, productivity.
 
 - [](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
+
+- [When will you be worth $1 million?](https://usefirst.me/) - Get on the path to wealth - a free and secure app helping you achieve your financial goals, cancel subscriptions, manage and save money.
