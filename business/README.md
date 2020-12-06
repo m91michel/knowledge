@@ -9,9 +9,9 @@
 - Erfolg = Idee + Umsetzung + Marketing^2
 
 ## Trends
-- [The Future of Remote Work: How the Greatest Human Migration in History Will Happen in the Next Decade](https://levels.io/the-greatest-migration/)
+- [Remote work](./remote-work.md)
+- [No-Code](https://gumroad.com/l/MhFRj) - [and this](./../nocode/README.md)
 - [Reports about trends](https://join.trends.vc)
-- [No-Code](https://gumroad.com/l/MhFRj)
 
 
 ## Further
@@ -24,3 +24,7 @@
 - [junge-gruender.de](https://www.junge-gruender.de/kostenlose-tools/ - Tools für Gründer
 - [boookmarks.com](http://www.boookmarks.com/) - To the left you will find actionable categories for bootstrapping a business.
 - [startupstash.com](https://startupstash.com/explore/) - We've listed the collection of tools to help startups around the globe to find the right fit for any needs. BTW, we added filters to make the search process easier for you.
+
+
+## Exit
+- [Flippa](https://www.flippa.com/) - #1 marketplace to buy and sell online businesses and domains
