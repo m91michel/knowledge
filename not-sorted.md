@@ -12,3 +12,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [#MakeChange](https://makechange.solutions/#give) - You can help fight racial discrimination by using your abilities, resources, and platform to help bring awareness and enable real solutions for lasting change. You're a Maker... make change.
 
+
+
+- [](https://uxbrains.co/) - A curated knowledge collection for all things UX. Discover content about Design, User Research, and more.
