@@ -7,6 +7,7 @@
 - [26 Amazing Free Browser Extensions for Marketers](https://www.valendigital.co.uk/blog/26-amazing-free-browser-extensions-for-marketers-2019) - Marketing Chrome Tools
 - [appy-dev.netlify.app](https://appy-dev.netlify.app/#) - list of apps
 - [marketingunited.org](https://marketingunited.org/wiki/Hauptseite) - Marketing United bietet dir hochwertiges Marketing-Wissen und hilfreiche Online-Marketing-Tools um online (mehr) Geld zu verdienen.
+- [Tools for Makers](https://toolsformakers.com/) - Collections of tools
 
 
 ## Landingpages
@@ -68,3 +69,4 @@
 ## Further Stuff
 - [copecart.com](https://www.copecart.com/marketplace) - CopeCart ist eine Shopsoftware, die sich um automatisierten Rechnungsversand, anbieten der Bezahlarten und Auszahlung Ihrer Einnahmen kümmert. Einmal anmelden, alles drin. - Affiliate Marketplace, um DigiStore Produkte weiter zu geben.
 - [heymarketers.com](https://www.heymarketers.com/ - Marketing Jobs
+- [Martechbase](https://martechbase.com/) - Martechbase is the free tech management and discovery platform for all your marketing & sales tools. Understand your company's investment in SaaS technology, find new solutions and optimise your stack.
