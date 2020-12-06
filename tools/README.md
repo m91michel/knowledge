@@ -11,5 +11,5 @@ Checkout no code tools [here](../nocode/)
 
 ## Feedback
 - [Stria](https://stria.co/) - Collect feedback from your users and have the artificial intelligence tell you how positive the feedback is and whether the feedback indicates happiness or sadness
-## Unsorted
+
 
