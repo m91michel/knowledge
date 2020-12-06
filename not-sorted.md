@@ -15,42 +15,12 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
 - [Colors and fonds](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
 - [Grow  your online business.](https://growthhacklist.com/) - When you need a database with the best growth and marketing ideas, quick ways to increase your conversion rate, tipps to improve SEO rankings, social media marketing strategies, and more, Growthhacklist got you covered.
+- [These free tools for developers are 🔥🔥🔥](https://dev.to/fayaz/this-free-tools-for-developers-are-45p3) - This is a very opinionated list of tools and apps that will help you up your game as a developer. Tagged with webdev, javascript, beginners, productivity.
+- [rankgen.com](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
+- [usefirst.me](https://usefirst.me/) - When will you be worth $1 million? - a free and secure app helping you achieve your financial goals, cancel subscriptions, manage and save money.
+- [iworkedon.com](https://iworkedon.com/) - I worked on ... Easily build a portfolio of the products you've built to share with the world.
+- [#MakeChange](https://makechange.solutions/#give) - You can help fight racial discrimination by using your abilities, resources, and platform to help bring awareness and enable real solutions for lasting change. You're a Maker... make change.
 
 
-- [
-              These free tools for developers are 🔥🔥🔥
-            
-  
-  
-  Hosts, Servers for deoplying you frontend/backend
 
-  
-  
-  Automation Tools
-
-  
-  
-  Nocode Tools
-
-  
-  
-  SEO/Digital Maeketing/Promotion/Legal Tools
-
-            Log in to continue
-          ](https://dev.to/fayaz/this-free-tools-for-developers-are-45p3) - This is a very opinionated list of tools and apps that will help you up your game as a developer. Tagged with webdev, javascript, beginners, productivity.
-
-- [](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
-
-- [When will you be worth $1 million?](https://usefirst.me/) - Get on the path to wealth - a free and secure app helping you achieve your financial goals, cancel subscriptions, manage and save money.
-
-- [   Your Place to Connect With Startup Founders  Join FoundersList to:CofoundersGroupsDeals](https://founderslist.com/) - Find your next startup or business Cofounder. Find startup and founder Events. Network and connect with Founders and Experts. Find recommended Services and Professionals.
-
-- [](https://iworkedon.com/) - I worked on ... Easily build a portfolio of the products you've built to share with the world.
-
-- [LATKA: Top SaaS Companies](https://getlatka.com/) - The Top B2B SaaS Companies. CEO's share revenue, customer count, growth rates, churn, arpu, cac, ltv, and more!
-
-- [#MakeChangeI want to add my voice to the growing wave of creatives, professionals, and businesses making their opposition to racism known.We're building a directory of Makers who want to help build products and services designed to address racial discrimination.  This directory will be shared online, and we will use it to connect Makers to organizations looking to build solutions.  Complete this form to be added to the list, and we will reach out to you as opportunities arise.Thank you for standing with us! You're using your skills and abilities to help bring change to this world!  We'll be in touch as soon as we have a need.  In the meantime, please help spread the word, and browse some of our additional resources.Thank you for standing with us! You're using your platform and resources to help bring change to this world!  We'll be in touch soon.  In the meantime, please help spread the word, and browse some of our additional resources.](https://makechange.solutions/#give) - You can help fight racial discrimination by using your abilities, resources, and platform to help bring awareness and enable real solutions for lasting change. You're a Maker... make change.
-
-- [Startup Berlin Chat Group](https://startupberlin.co/) - Talk to the 4000+ startup people from the Berlin startup scene. Join conversations on #tech, #blockchain and #musictech. Find and post startup jobs.
-
-- [DevSwagContainer SolutionsCommerceJSMeedanCircleCISpecFlowSwitchbladeHasuraIHPAquaSecDatenanfragen.de e. V.DEV PodcastEarthlyDevfolioOperation CodeVonageOpenEBSAppsmithCamundaWebinyIndeedMayaDataMattermostInfraCloudLoginRadiusAppwriteJetbrainsHacktoberfest 2020RedwoodJSBlockstackerxesDequeRedis CloudBlockstackImgBotDocusaurusLes tilleulsFlutterwaveQMKParity TechnologiesStrawberryGloboPagerdutyCodingBlocksLadyBugXamarinAquaJabRefSense/NetLBRYValor SoftwareTwilioAccord ProjectUmbracoMagento + AdobeUnoIPFSNativeScriptopsdroidAlligator.ioSimbaChainContentfulJS Bin7PHPArasGatsbyKongSalesAgilitySaleorOpenBazaarsource{d}PassengerNexmoSendGridWhatIsMyBrowserTwilioAuth0MicrosoftNetlifydevRantGoogle AssistantCodeshipnpmAlexa](https://devswag.io/) - swag opportunities for developers
+- [DevSwag.io](https://devswag.io/) - swag opportunities for developers
