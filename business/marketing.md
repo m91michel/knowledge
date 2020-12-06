@@ -24,13 +24,14 @@
 - [getinfame.com](https://www.getinfame.com/) - Social Media Marketing Suite to grow your business with Instagram, Tik Tok, and Twitter
 - [SOCIAL MEDIA TOOLS: THE COMPLETE LIST OF 638 TOOLS](https://bulk.ly/social-media-tools/) - List of 633 Social Media Tools
 - [recurpost.com](https://recurpost.com/) - RecurPost allows you to automatically share your updates at the best time, saving you countless hours and increasing your social media engagement every week.
-
+- [syften.com](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
 
 ## SEO
 - [backlinko](https://backlinko.com/) - Get Exclusive SEO Tips That I Only Share With Email Subscribers
 - [twinword.com]https://www.twinword.com/ - Twinword Ideas is a smart keyword tool for SEO and PPC marketing. Powered by A.I., Twinword Ideas groups keywords by user intent, popular topics and patterns.
 - [onlinesolutionsgroup.de](https://www.onlinesolutionsgroup.de/kostenloser-seo-check/) - Nutzen Sie unseren kostenfreien SEO Check und erhalten Sie sofort die wichtigsten Handlungsempfehlungen für Ihr SEO.
 - [We're Gettting Over 168,000 Organic Vistors - Here's how we did it](https://www.indiehackers.com/post/were-get-over-168-000-organic-vistors-here-s-how-we-did-it-03c7634cd3?commentId=-MB-YLdp80XtB1mDoQtU)
+- [rankgen.com](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
 
 **Keyword Search Tools**
 - [ahrefs.com](https://ahrefs.com/de/)
@@ -43,7 +44,8 @@
 - [sparktoro.com](https://sparktoro.com/)
 - [trendseverywhere.com](https://trendseverywhere.com/ - Chrome extension for Google Trends in Search)
 
-
+## Research
+- [Five Steps To Faster Market Research](https://www.forbes.com/sites/theyec/2020/11/23/five-steps-to-faster-market-research/) - Research is absolutely critical to making informed strategic and product decisions. And as a product manager or founder, this market research must be carefully balanced with speed, efficacy and an iterative process.
 
 ## Content
 - [paved.com]https://www.paved.com/ - Paved makes it easy to launch sponsored campaigns, manage publisher relationships, and seamlessly track results.
@@ -70,3 +72,5 @@
 - [copecart.com](https://www.copecart.com/marketplace) - CopeCart ist eine Shopsoftware, die sich um automatisierten Rechnungsversand, anbieten der Bezahlarten und Auszahlung Ihrer Einnahmen kümmert. Einmal anmelden, alles drin. - Affiliate Marketplace, um DigiStore Produkte weiter zu geben.
 - [heymarketers.com](https://www.heymarketers.com/ - Marketing Jobs
 - [Martechbase](https://martechbase.com/) - Martechbase is the free tech management and discovery platform for all your marketing & sales tools. Understand your company's investment in SaaS technology, find new solutions and optimise your stack.
+- [growthhacklist.com](https://growthhacklist.com/) - Growthhacklist is a platform that helps you grow your project
+and safe time to focus on building a great product.
