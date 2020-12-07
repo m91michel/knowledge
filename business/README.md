@@ -24,7 +24,7 @@
 - [junge-gruender.de](https://www.junge-gruender.de/kostenlose-tools/ - Tools für Gründer
 - [boookmarks.com](http://www.boookmarks.com/) - To the left you will find actionable categories for bootstrapping a business.
 - [startupstash.com](https://startupstash.com/explore/) - We've listed the collection of tools to help startups around the globe to find the right fit for any needs. BTW, we added filters to make the search process easier for you.
-
+- [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
 
 ## Exit
 - [Flippa](https://www.flippa.com/) - #1 marketplace to buy and sell online businesses and domains
