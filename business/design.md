@@ -1,9 +1,10 @@
-# Design
+# UX and Design
 
 ## Collections
 - [10 No Design Tools You Need Right Now](https://logobly.com/blog/10-no-design-tools/)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - design resources for developers
 - [undesign.learn.uno](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers
+- [uxbrains.co](https://uxbrains.co/) - A curated knowledge collection for all things UX. Discover content about Design, User Research, and more.
 
 ## Logo
 - [logobly.com](https://logobly.com/)  - Logo
