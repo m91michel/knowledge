@@ -14,6 +14,9 @@
 - [coachy.net](https://www.coachy.net/de/features/) - Erstelle im Handumdrehen professionelle, mobil-optimierte Verkaufsseiten für deinen Onlinekurs.
 - [raidboxes.io](https://raidboxes.io/) - Blitzschnelles, sicheres und klimapositives WordPress Hosting für Agenturen, Freelancer und WordPress Profis. Mit unseren Features sparst du beim WordPress Hosting, der Entwicklung und Verwaltung deiner Projekte garantiert Zeit und Geld.
 
+
+- [crowdy.ai](https://www.crowdy.ai/de/) - Collect and display authentic testimonials & ratings in minutes.
+
 ## Creating a blog
 - [BlogMojo](https://www.blogmojo.de/blogger-tools/)
 
