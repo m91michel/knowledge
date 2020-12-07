@@ -29,12 +29,22 @@
 - [themefisher.com](https://themefisher.com/) 
 - [freebiesbug.com/code](https://freebiesbug.com/code-stuff/html-website-templates/) - Site with nice themes
 
+
+## User feedback
+- [featuremonkey](https://featuremonkey.launchaco.com/) - The feedback tracker for building better features
+
+
 ## Images
 - [pexels.com](https://www.pexels.com) - free Stocks fotos
 - [unsplash.com/](https://unsplash.com/) - free Stock fotos
 
 **Icons**
 - [lineicons.com](https://lineicons.com) - Handcrafted Line Icons for Modern User Interfaces of Web, Android, iOS, and Desktop App Projects. A Complete Yet Most Simplified Icon Pack Available on The Web!
+
+**Videos**
+- [Viddyoze](https://viddyoze.com/) - Viddyoze Was Created To Be The Future Of Video… And Through All 5 Years, We’ve NEVER STOPPED
+- [flexclip.com](https://www.flexclip.com/) - Amazing Videos Made Easy with FlexClip Video Maker
+
 
 **Illustrations**
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
@@ -49,3 +59,4 @@
 - [Make an awesome profile pic from any photo](https://pfpmaker.com)
 - [remove.bg](https://www.remove.bg/de) - Remove Background from Image
 - [chibi.app/](https://chibi.app/) - create cute characters
+- [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
