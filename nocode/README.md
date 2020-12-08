@@ -86,13 +86,15 @@ creativity.
 - [Scraperapi](https://www.scraperapi.com/) - Scraper API handles proxies, browsers, and CAPTCHAs, so you can get the HTML from any web page with a simple API call!
 - [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
 - [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
-  
+- [hunter.io](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+-   
 ## Chatbot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 - [Botmake.io](https://botmake.io/) - Create a chatbot
 - [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps
 - [Octane AI](https://octaneai.com/) - Fuel faster growth and personalization with Octane AI’s all-in-one platform for Quizzes, Facebook Messenger & SMS automation, and opt-in tools.
-
+- [botlist.co](https://botlist.co)
+- 
 ## Machine learning and AI tools
 - [Obviously](https://www.obviously.ai/) - Data Predictions in minutes, without writing code.
 - [Teachablemachine with Google](https://teachablemachine.withgoogle.com/)
