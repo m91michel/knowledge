@@ -25,6 +25,12 @@
 - [boookmarks.com](http://www.boookmarks.com/) - To the left you will find actionable categories for bootstrapping a business.
 - [startupstash.com](https://startupstash.com/explore/) - We've listed the collection of tools to help startups around the globe to find the right fit for any needs. BTW, we added filters to make the search process easier for you.
 - [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
-
+- [The Ultimate Startup Checklist](https://www.remoteworkly.co/the-ultimate-startup-checklist)
+- [nuton.co](https://www.nuton.co/) - Everything you need to start, manage and grow your internet business, in one place.
 ## Exit
 - [Flippa](https://www.flippa.com/) - #1 marketplace to buy and sell online businesses and domains
+
+
+## Förderung
+- [foerderdatenbank.de](https://www.foerderdatenbank.de/FDB/DE/Home/home.html)
+- [unakon.de](https://unakon.de/)
