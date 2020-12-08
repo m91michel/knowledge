@@ -116,6 +116,7 @@ creativity.
 ## API
 - [Autocode](https://autocode.com/) - Instant API automation with code. Generate Webhook code for connection of two services
 - [NoCodeAPI](https://nocodeapi.com/) - Save time to Setup Server & Code for APIs
+- [sheet2api.com](https://sheet2api.com/) - Use any Google Sheets Logo Icon Google Sheets or Microsoft Excel Sheets Logo Icon Excel Online spreadsheet to power a fully-fledged API, no coding required.
 
 ## Examples
 - [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
