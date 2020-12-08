@@ -22,6 +22,7 @@
 - [coinmetrics](https://coinmetrics.io/charts/#assets=btc)
 - [Byte Tree BTC](https://terminal.bytetree.com/bitcoin)
 - [Market Cycle Charts](https://www.lookintobitcoin.com/charts/)
+- [Bitcoin Market Cap Gained per Dollar Invested](https://www.tradingview.com/script/0p0uCzK8-Bitcoin-Market-Cap-Gained-per-Dollar-Invested-BTC-JackSparrow/)
 ### Stock-to-flow
 > SF = stock / flow
 - [Plan B - creator of the S2F Model](https://100trillionusd.github.io/)

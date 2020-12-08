@@ -13,3 +13,6 @@
 
 ## Data points to analyse markets
 - [tracktherecovery.org](https://tracktherecovery.org/) - Track the economic impacts of COVID-19 on people, businesses, and communities across the United States in real time.
+
+## Invest in startups
+- [investing.io](https://investing.io) - A home for entrepreneurs turned investors
