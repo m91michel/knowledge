@@ -19,6 +19,8 @@
 
 ## Creating a blog
 - [BlogMojo](https://www.blogmojo.de/blogger-tools/)
+- [10 Proofreading Tools to Make Your Blog Post Shareable](https://geekflare.com/proofreading-blog-post/)
+- [Typely](https://www.producthunt.com/posts/typely) - Typely helps you write better english
 
 ## Social Media
 - [displaypurposes](https://displaypurposes.com/) - Instagram Hashtag tool
@@ -35,6 +37,8 @@
 - [onlinesolutionsgroup.de](https://www.onlinesolutionsgroup.de/kostenloser-seo-check/) - Nutzen Sie unseren kostenfreien SEO Check und erhalten Sie sofort die wichtigsten Handlungsempfehlungen für Ihr SEO.
 - [We're Gettting Over 168,000 Organic Vistors - Here's how we did it](https://www.indiehackers.com/post/were-get-over-168-000-organic-vistors-here-s-how-we-did-it-03c7634cd3?commentId=-MB-YLdp80XtB1mDoQtU)
 - [rankgen.com](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
+- [frase.io](https://www.frase.io/) - The future of search is about answers, not links. Conversations, not rigid keywords. Frase transforms how you deliver answers with your content.
+
 
 **Keyword Search Tools**
 - [ahrefs.com](https://ahrefs.com/de/)
@@ -69,6 +73,13 @@
 - [Best Email Marketing Automation Tools: Sendinblue vs Drip vs ConvertKit vs Mailchimp vs Mailjet vs Infusionsoft](https://www.codeinwp.com/blog/best-email-marketing-automation-tools/)
 - [6 Schritte, um einen E-Mail-Funnel zu erstellen, der deine Leads automatisch in Kunden verwandelt](https://www.chimpify.de/marketing/email-funnel)
 
+## Branding
+
+**Domain and your name**
+- [namerobot.de](https://www.namerobot.de/toolbox) - Die Toolbox für Namensfinder
+- [launchaco.com](https://launchaco.launchaco.com/) - Quickly search through dozens of domain names, and social media handles to find the perfect name for your startup or business.
+- [park.io/](https://park.io/) - Backorder expiring country code top level domains for only $99.
+- [catchtiger.com](https://www.catchtiger.com/en) - Domain Aktions Plattform
 
 
 ## Further Stuff

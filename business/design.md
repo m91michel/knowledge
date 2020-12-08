@@ -60,3 +60,4 @@
 - [remove.bg](https://www.remove.bg/de) - Remove Background from Image
 - [chibi.app/](https://chibi.app/) - create cute characters
 - [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
+- [artlist.io](https://artlist.io/) - Get unlimited music and SFX for your videos
