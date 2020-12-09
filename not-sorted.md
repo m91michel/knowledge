@@ -10,3 +10,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 
 - [Effortless SEO Testing](https://seotesting.com/) - Easily track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
+
+- [Create better content, fasterHow it works](https://getcontentpro.com/) - A Chrome Extension that compares your Google Doc to our content library to see what industry leaders and competitors are saying about your topics.
