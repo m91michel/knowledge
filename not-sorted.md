@@ -7,3 +7,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 ## Added by n8n workflow
 
 - [#MakeChange](https://makechange.solutions/#give) - You can help fight racial discrimination by using your abilities, resources, and platform to help bring awareness and enable real solutions for lasting change. You're a Maker... make change.
+
+
+- [Effortless SEO Testing](https://seotesting.com/) - Easily track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
