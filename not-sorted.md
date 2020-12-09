@@ -12,3 +12,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Effortless SEO Testing](https://seotesting.com/) - Easily track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
 
 - [Create better content, fasterHow it works](https://getcontentpro.com/) - A Chrome Extension that compares your Google Doc to our content library to see what industry leaders and competitors are saying about your topics.
+
+- [How to launch on ProductHunt successfully (Strategic top 3 guarantee)](https://www.buildingstartups.co/blog/how-to-launch-on-producthunt-successfully-strategic-top-3-guarantee) - After launching 9 products on producthunt with many top 4 positions and 2 that didn't work. We learnt a process that consistently gets you to the top.
