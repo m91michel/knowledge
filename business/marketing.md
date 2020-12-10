@@ -14,7 +14,7 @@
 - [coachy.net](https://www.coachy.net/de/features/) - Erstelle im Handumdrehen professionelle, mobil-optimierte Verkaufsseiten für deinen Onlinekurs.
 - [raidboxes.io](https://raidboxes.io/) - Blitzschnelles, sicheres und klimapositives WordPress Hosting für Agenturen, Freelancer und WordPress Profis. Mit unseren Features sparst du beim WordPress Hosting, der Entwicklung und Verwaltung deiner Projekte garantiert Zeit und Geld.
 
-
+- [saaspages.xyz](https://saaspages.xyz/) - A collection of the best landing pages with a focus on copywriting and design.
 - [crowdy.ai](https://www.crowdy.ai/de/) - Collect and display authentic testimonials & ratings in minutes.
 
 ## Creating a blog
@@ -39,7 +39,6 @@
 - [rankgen.com](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
 - [frase.io](https://www.frase.io/) - The future of search is about answers, not links. Conversations, not rigid keywords. Frase transforms how you deliver answers with your content.
 
-
 **Keyword Search Tools**
 - [ahrefs.com](https://ahrefs.com/de/)
 - [secockpit.com](https://secockpit.com/de/)
@@ -50,12 +49,14 @@
 - [mangools.com](https://mangools.com/)
 - [sparktoro.com](https://sparktoro.com/)
 - [trendseverywhere.com](https://trendseverywhere.com/ - Chrome extension for Google Trends in Search)
+- [Effortless SEO Testing](https://seotesting.com/) - Easily track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
 
 ## Research
 - [Five Steps To Faster Market Research](https://www.forbes.com/sites/theyec/2020/11/23/five-steps-to-faster-market-research/) - Research is absolutely critical to making informed strategic and product decisions. And as a product manager or founder, this market research must be carefully balanced with speed, efficacy and an iterative process.
 
 ## Content
 - [paved.com]https://www.paved.com/ - Paved makes it easy to launch sponsored campaigns, manage publisher relationships, and seamlessly track results.
+- [Create better content, fasterHow it works](https://getcontentpro.com/) - A Chrome Extension that compares your Google Doc to our content library to see what industry leaders and competitors are saying about your topics.
 
 ## Newsletter
 - [klicktipp.com](https://www.klicktipp.com/)
