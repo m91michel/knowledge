@@ -47,7 +47,8 @@ creativity.
 - [Readymag](https://readymag.com/) - Readymag is a browser-based design tool that offers unlimited possibilities to create landing pages, websites
 - [Versoly](https://versoly.com/) - With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches.
 - [Actiondeks.io](https://www.actiondesk.io/) - As easy and flexible as a spreadsheet. As powerful as a BI tool.
-
+- [datawrapper.de](https://www.datawrapper.de/) - Enrich your stories with charts, maps and tables.
+- [sitesauce.app](https://sitesauce.app/) - Sitesauce converts dynamic websites into static sites, and keeps content in sync.
 
 **Ressources**
 - [Carrd Templates For Your Next Project](https://drrac.co/)
@@ -154,4 +155,3 @@ creativity.
 - [Hubspot](https://www.hubspot.de) - Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
 - [Beamer](https://www.getbeamer.com/) - Announce your latest updates and get powerful feedback with an in-app notification center, widgets and changelog.
 - [Buy me a coffee](https://www.buymeacoffee.com/) - Buy Me a Coffee is a simple, meaningful way to fund your creative work.
-
