@@ -11,13 +11,33 @@ Checkout no code tools [here](../nocode/)
 ## Sales
 - [Crankwheel](https://crankwheel.com/) — Screen Sharing designed for sales teams with hard-to-reach prospects
 
-## Feedback
+## User Feedback
 - [Stria](https://stria.co/) - Collect feedback from your users and have the artificial intelligence tell you how positive the feedback is and whether the feedback indicates happiness or sadness
 
 ## Project management
 - [clickup.com](https://clickup.com/) - All your work in one place: Tasks, docs, chat, goals, & more.
 - [whimsical.com](https://whimsical.com/) - Communicate visually at the speed of thought. - Flow charts
+- [clubhouse.io](https://clubhouse.io/) - Clubhouse is collaborative project management that streamlines and refines your existing workflow. Managing your tasks shouldn't be a task.
+- [askalmanac.com](https://askalmanac.com/) - The doc editor for teams who move fast.
+- [walling.app](https://walling.app/) - Walling is an easy-to-use tool that helps you capture ideas and visualize projects in collaborative Walls.
+## Stay informed
+- [usepanda.com](https://usepanda.com/app/#/) — Panda is the simple free news reader. Discover the best tools, resources and inspiration in the world of design and tech.
+- [unreadit.com](https://unreadit.com/) - Reddit-fueled Weekly Newsletters.
+- [stoopinbox.com](https://stoopinbox.com) - Like a podcast app - but for newsletters
+- [plutio.com](https://www.plutio.com/) - Manage projects, track time, create dazzling proposals and get paid faster through professional invoices. All from one place.
+- [morningbrew.com](https://www.morningbrew.com/) - Get the daily email that makes reading the news actually enjoyable. Stay informed and entertained, for free.
 
+## Community
+- [mightynetworks.com](https://www.mightynetworks.com) - Bring together your website, online courses, memberships, and more to create your own thriving Passion Economy Business. - community
 ## Further
 - [appsumo.com](https://appsumo.com/) - We’ll send you the hottest deals straight to your inbox so you’re always in on the best-kept software secrets.
-- [morningbrew.com](https://www.morningbrew.com/) - Get the daily email that makes reading the news actually enjoyable. Stay informed and entertained, for free.
+- [invoiz.de](https://www.invoiz.de/) - Software für Rechnungen - kostenlos
+- [calendly.com](https://calendly.com/de) - Termine Vereinbaren
+- [followupthen.com](https://www.followupthen.com/) - The simplest way to schedule an email reminder
+- [groupsville.com](https://groupsville.com/) - Secure Group Sharing & Video-Calls - Groupsville provides a private and censorship-free open source social platform, where you actually own your own data.
+- [superpeer.com](https://superpeer.com/) - Superpeer gives you the tools you need to have paid 1:1 video calls and livestreams with your audience and paid subscribers.
+
+
+
+- [wufoo.com](https://www.wufoo.com/) - Build custom online forms that you can use to collect data, payments and to automate your workflows.
+- [markup.io](https://www.markup.io/) - Visual feedback made easy.
