@@ -8,6 +8,7 @@
 - [appy-dev.netlify.app](https://appy-dev.netlify.app/#) - list of apps
 - [marketingunited.org](https://marketingunited.org/wiki/Hauptseite) - Marketing United bietet dir hochwertiges Marketing-Wissen und hilfreiche Online-Marketing-Tools um online (mehr) Geld zu verdienen.
 - [Tools for Makers](https://toolsformakers.com/) - Collections of tools
+- [568 Tools & Quellen für dein Online Marketing](https://marketing-helden.online/tools/online-marketing-links/)
 
 
 ## Landingpages
