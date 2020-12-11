@@ -1,5 +1,5 @@
 # SaaS
-Resources for your SaaS
+Resources for your Software as a Service (SaaS) startup
 
 ## Idea Validation
 - [LATKA: Top SaaS Companies](https://getlatka.com/) - The Top B2B SaaS Companies. CEO's share revenue, customer count, growth rates, churn, arpu, cac, ltv, and more!
