@@ -7,6 +7,8 @@ Checkout no code tools [here](../nocode/)
 - [carbon.now.sh](https://carbon.now.sh/) - create code example images
 - [builtwith.com](https://builtwith.com/de/)
 - [nomoregoogle.com](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
+- [typefully.app](https://typefully.app) - Twitter thread planning tool
+- [textcalc.com](https://textcalc.com/) - create an online calculator with markdown like text
 
 ## Sales
 - [Crankwheel](https://crankwheel.com/) — Screen Sharing designed for sales teams with hard-to-reach prospects
@@ -41,3 +43,5 @@ Checkout no code tools [here](../nocode/)
 
 - [wufoo.com](https://www.wufoo.com/) - Build custom online forms that you can use to collect data, payments and to automate your workflows.
 - [markup.io](https://www.markup.io/) - Visual feedback made easy.
+- [botmock.com](https://botmock.com/) - Teams of all sizes use Botmock to rapid prototype and design conversational experiences across multiple channels – both voice & text
+- [lucidchart.com](https://www.lucidchart.com) - Erstellen Sie aussagekräftige Visualisierungen, um Ihre Teams, Informationen und Prozesse besser zu verstehen und so bessere Entscheidungen in allen Geschäftsbereichen zu fördern. Registrieren Sie sich jetzt für eine kostenlose Testversion.
