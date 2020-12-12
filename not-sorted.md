@@ -7,3 +7,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 ## Added by n8n workflow
 
 - [linktr.ee](https://linktr.ee/) - Connect audiences to all of your content with just one link
+
+
+- [<ShookBlog/>An Introvert's Personal Guide to Tech Twitter](https://blog.shook.codes/an-introverts-personal-guide-to-tech-twitter) - Looking through my Twitter feed, you probably wouldn’t know that I'm an introvert. In "real" life, I have a small circle of friends, crowds overwhelm me, and I need a lot of alone time (though nowadays that's rare since I'm a parent). This article is...
