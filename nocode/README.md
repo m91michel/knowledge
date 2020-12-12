@@ -2,7 +2,8 @@
 ![Nocode logos](/nocode/logos.png)
 ## What is nocode?
 > A no code development platform is a tool for building software applications without coding; a popular and promising alternative to traditional software development for non-technical business users hoping to build their own full-fledged applications. 
-> - [What is no code? The pros and cons of no code for software development.](https://codebots.com/low-code/what-is-no-code-the-pros-and-cons-of-no-code-for-software-development)
+- [What is no code? The pros and cons of no code for software development.](https://codebots.com/low-code/what-is-no-code-the-pros-and-cons-of-no-code-for-software-development)
+
 ## Communites, Ressources, Tutorials
 - [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
 - [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.

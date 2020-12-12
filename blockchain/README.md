@@ -71,7 +71,7 @@ MetaCoin Defi
 - App die darauf aufbauen - Social Network
 - Branche: Finanzen
 
-[steem.com](https://steem.com/) - Steem is a social blockchain that grows communities and makes immediate revenue streams possible for users by rewarding them for sharing content. It’s currently the only blockchain that can power real applications via social apps like Steemit.
+- [steem.com](https://steem.com/) - Steem is a social blockchain that grows communities and makes immediate revenue streams possible for users by rewarding them for sharing content. It’s currently the only blockchain that can power real applications via social apps like Steemit.
 - Media Token: Werde bezahlt für Post und Beiträge
 - Branche: Media
 

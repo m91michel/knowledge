@@ -16,10 +16,10 @@
 - [coolors.co](https://coolors.co) - Color Palettes
 - [Colors and fonds](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
 ## Animation and video
-- [lottiefiles.com/](https://lottiefiles.com/) - animations
+- [lottiefiles.com](https://lottiefiles.com/) - animations
 - [www.loom.com](https://www.loom.com) - say it with video
 - [snackthis.co/create](https://snackthis.co/create) - Motion design Text
-- [flowinkit.com/](https://flowinkit.com/) - Firma User Flow Template
+- [flowinkit.com](https://flowinkit.com/) - Firma User Flow Template
 - [jannisproduction.de](https://jannisproduction.de/) - Image Videos - Auch gut für inspiration
 
 ## Themes
@@ -27,7 +27,7 @@
 - [divjoy.com](https://divjoy.com/) - React Project Generator - 59$
 - [bootstrap.build](https://bootstrap.build/) - Create Bootstrap Themes
 - [themefisher.com](https://themefisher.com/) 
-- [freebiesbug.com/code](https://freebiesbug.com/code-stuff/html-website-templates/) - Site with nice themes
+- [freebiesbug.com](https://freebiesbug.com/code-stuff/html-website-templates/) - Site with nice themes
 
 
 ## User feedback
@@ -36,7 +36,7 @@
 
 ## Images
 - [pexels.com](https://www.pexels.com) - free Stocks fotos
-- [unsplash.com/](https://unsplash.com/) - free Stock fotos
+- [unsplash.com](https://unsplash.com/) - free Stock fotos
 
 **Icons**
 - [lineicons.com](https://lineicons.com) - Handcrafted Line Icons for Modern User Interfaces of Web, Android, iOS, and Desktop App Projects. A Complete Yet Most Simplified Icon Pack Available on The Web!
@@ -49,8 +49,8 @@
 **Illustrations**
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
 - [dev.to/kedark](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c) - Illustrations
-- [undraw.co/](https://undraw.co/) - Free Illustrations
-- [delesign.com/free](https://delesign.com/free-designs/graphics/) - Free Illustrations
+- [undraw.co](https://undraw.co/) - Free Illustrations
+- [delesign.com](https://delesign.com/free-designs/graphics/) - Free Illustrations
 - [artify.co](https://www.artify.co/uncommon-illustrations) - Uncommon Illustrations
 
 **Tools**
@@ -58,6 +58,6 @@
 - [Create an handcrafted Emoji](https://www.mymoji.co/)
 - [Make an awesome profile pic from any photo](https://pfpmaker.com)
 - [remove.bg](https://www.remove.bg/de) - Remove Background from Image
-- [chibi.app/](https://chibi.app/) - create cute characters
+- [chibi.app](https://chibi.app/) - create cute characters
 - [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
 - [artlist.io](https://artlist.io/) - Get unlimited music and SFX for your videos

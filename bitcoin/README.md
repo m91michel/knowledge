@@ -2,7 +2,8 @@
 
 ## What is bitcoin?
 > Bitcoin is a digital currency created in January 2009 following the housing market crash. It follows the ideas set out in a whitepaper by the mysterious and pseudonymous Satoshi Nakamoto.1﻿ The identity of the person or persons who created the technology is still a mystery. Bitcoin offers the promise of lower transaction fees than traditional online payment mechanisms and is operated by a decentralized authority, unlike government-issued currencies.
-> [Source](https://www.investopedia.com/terms/b/bitcoin.asp)
+[Source](https://www.investopedia.com/terms/b/bitcoin.asp)
+
 ## Interesting Resources
 - [Aprycot](https://aprycot.media/thek/) - Das ist unser Kaninchenbau! Hier findest du lauter Links zu wichtigen Wissensgrundlagen rund um Bitcoin auf Deutsch!
 - [Jameson Lopp's Bitcoin Resources](https://www.lopp.net/bitcoin-information.html)
@@ -23,7 +24,9 @@
 - [Byte Tree BTC](https://terminal.bytetree.com/bitcoin)
 - [Market Cycle Charts](https://www.lookintobitcoin.com/charts/)
 - [Bitcoin Market Cap Gained per Dollar Invested](https://www.tradingview.com/script/0p0uCzK8-Bitcoin-Market-Cap-Gained-per-Dollar-Invested-BTC-JackSparrow/)
+
 ### Stock-to-flow
+
 > SF = stock / flow
 - [Plan B - creator of the S2F Model](https://100trillionusd.github.io/)
 - [Modeling Bitcoin Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
@@ -33,7 +36,9 @@
 
 ### Bitcoin Market-Value-to-Realized-Value (MVRV) Ratio
 > MVRV is calculated by simply dividing market value by realized value on a daily basis
+
 - [The Logic Behind Realized Value](https://medium.com/adaptivecapital/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)
+
 ### Hash Ribbons
 - [Hash Ribbons & Bitcoin Bottoms](https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836)
 - [Bitcoin Kurs Analyse: Dieser Indikator könnte den nächsten Bullrun ankündigen](https://cryptomonday.de/bitcoin-kurs-analyse-dieser-indikator-koennte-den-naechsten-bullrun-ankuendigen/)
