@@ -19,6 +19,8 @@
 
 - [saaspages.xyz](https://saaspages.xyz/) - A collection of the best landing pages with a focus on copywriting and design.
 - [crowdy.ai](https://www.crowdy.ai/de/) - Collect and display authentic testimonials & ratings in minutes.
+- [40 Free HTML landing page templates](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp)
+- [Landing Pages Guide by Julian Shapiro](https://www.julian.com/guide/growth/landing-pages) - Also checkout Growth Marketing
 
 ## Creating a blog
 - [BlogMojo](https://www.blogmojo.de/blogger-tools/)
