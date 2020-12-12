@@ -50,6 +50,7 @@ creativity.
 - [Actiondeks.io](https://www.actiondesk.io/) - As easy and flexible as a spreadsheet. As powerful as a BI tool.
 - [datawrapper.de](https://www.datawrapper.de/) - Enrich your stories with charts, maps and tables.
 - [sitesauce.app](https://sitesauce.app/) - Sitesauce converts dynamic websites into static sites, and keeps content in sync.
+- [internal.io](https://internal.io/) - Allow anyone in your company to build approval queues on top of your databases, APIs, and business apps.
 
 **Ressources**
 - [Carrd Templates For Your Next Project](https://drrac.co/)
@@ -89,7 +90,9 @@ creativity.
 - [Dashblock](https://dashblock.com/) - TURN ANY WEBSITE INTO AN API
 - [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
 - [hunter.io](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
--   
+- [monitoro.xyz](https://www.monitoro.xyz/) - Monitor website changes and send the latest data to IFTTT, Google Sheets, Zapier, Firebase, AWS Lambda and many other services!
+
+
 ## Chatbot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 - [Botmake.io](https://botmake.io/) - Create a chatbot
