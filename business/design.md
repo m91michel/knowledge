@@ -52,6 +52,7 @@
 - [undraw.co](https://undraw.co/) - Free Illustrations
 - [delesign.com](https://delesign.com/free-designs/graphics/) - Free Illustrations
 - [artify.co](https://www.artify.co/uncommon-illustrations) - Uncommon Illustrations
+- [galshir.com](https://galshir.com/) - Simple web app for character guidelines - create your own illustrations
 
 **Tools**
 - [Glorifyapp](https://www.glorifyapp.com) - Create high converting product images in a few clicks
