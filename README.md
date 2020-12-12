@@ -15,7 +15,7 @@ A list of some interesting topics
   - [Marketing](business/marketing.md)
   - [Design](business/design.md)
   - [No-code](nocode)
-  - [Solopreneure](business/solopreneure.md)
+  - [Solopreneur](business/solopreneure.md)
   - [SaaS](business/saas.md)
   - [Remote Work](business/remote-work.md)
   - [Cool Online Tools](tools/README.md)
