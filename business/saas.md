@@ -3,6 +3,7 @@ Resources for your Software as a Service (SaaS) startup
 
 ## Idea Validation
 - [LATKA: Top SaaS Companies](https://getlatka.com/) - The Top B2B SaaS Companies. CEO's share revenue, customer count, growth rates, churn, arpu, cac, ltv, and more!
+- [saashub.com](https://www.saashub.com/) - Software Alternatives And Reviews
 
 ## Community
 - [founderslist.com](https://founderslist.com/) - Find your next startup or business Cofounder. Find startup and founder Events. Network and connect with Founders and Experts. Find recommended Services and Professionals.
