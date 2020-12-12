@@ -4,7 +4,7 @@
 > A no code development platform is a tool for building software applications without coding; a popular and promising alternative to traditional software development for non-technical business users hoping to build their own full-fledged applications. 
 - [What is no code? The pros and cons of no code for software development.](https://codebots.com/low-code/what-is-no-code-the-pros-and-cons-of-no-code-for-software-development)
 
-## Communites, Ressources, Tutorials
+## Communities, Resources, Tutorials
 - [Nocode.tech](https://www.nocode.tech/) - NoCode Ressources, tutorials, examples
 - [Nooocode](https://nooocode.com/) - The best projects built by makers, with no code.
 - [NFC - NoCodeFounder](https://nocodefounders.com/perks/) - The #1 No Code Slack community and platform for non-technical founders and entrepreneurs.
@@ -126,17 +126,17 @@ creativity.
 - [Twitter: Use Zapier to onboard testflight users, get feedback with a airtable form and create tickets if checkbox is true](https://twitter.com/RobertJBye/status/1300453516771721218)
 - [Format twitter post and add them to buffer](https://zapier.com/shared/c2308cd444c570227f6c90dbdad49fc379343fdf)
 
-## Agentcies
+## Agencies
 - [02100](https://www.02100.io) - Digitaler Vorreiter werden. Mit Low-Code. - NoCode Agentur aus Hamburg
 
-## Funny Connent
+## Funny Content
 - [Nocode gifs](https://nocodegifs.com/) - It's NoCode GIFs y'all!
 
 ## Sell Digital Products
 - [Service Provider](https://spp.co/) - Agency Management & Client Portal Software - Digital Products and Memberships
 - [Payhip](https://payhip.com/) - Payhip is the easiest way to sell digital downloads & memberships
 
-## Articels
+## Articles
 - [What Is No Code?](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)
 - [The Rise of “No Code](https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d)
 - [Five “creator” apps that have captured Silicon Valley’s attention](https://qz.com/work/1640095/five-productivity-and-creativity-apps-popular-in-silicon-valley/) - notions, carrd.co, figma, teachable, substack
