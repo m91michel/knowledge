@@ -12,6 +12,7 @@
 - [Remote work](./remote-work.md)
 - [No-Code](https://gumroad.com/l/MhFRj) - [and this](./../nocode/README.md)
 - [Reports about trends](https://join.trends.vc)
+- [Trends #0012 — Micro Private Equity](https://trends.vc/trends-0012-micro-private-equity/)
 
 
 ## Further

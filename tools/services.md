@@ -8,7 +8,10 @@ kostenlose Ersteinschätzung innerhalb von 2 Stunden erhalten.
 - [mentorpass.co](https://www.mentorpass.co/) - Learn from 100+ mentors and coaches that will help you launch and scale your business.
 - [growthmentor.com](https://www.growthmentor.com/) - Finding a startup or marketing mentor shouldn't be hard
 
+## Games
+- [tradecraft.fun](https://tradecraft.fun/game/small-bonus-6934) - code names as online game
 
+## Further
 - [usefirst.me](https://usefirst.me/) - When will you be worth $1 million? - a free and secure app helping you achieve your financial goals, cancel subscriptions, manage and save money.
 - [mixkit.co](https://mixkit.co/) - Free assets for your next video project
 - [joinsecret.com](https://www.joinsecret.com/) - Supercharge Your Business With The #1 Perks Platform For Founders - Software deals

@@ -9,6 +9,7 @@ Checkout no code tools [here](../nocode/)
 - [nomoregoogle.com](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you
 - [typefully.app](https://typefully.app) - Twitter thread planning tool
 - [textcalc.com](https://textcalc.com/) - create an online calculator with markdown like text
+- [perspectiva.app](https://perspectiva.app/) - Perspectiva uses advanced behavioral science to help you stick with journaling once and for all.
 
 ## Sales
 - [Crankwheel](https://crankwheel.com/) — Screen Sharing designed for sales teams with hard-to-reach prospects
@@ -38,6 +39,7 @@ Checkout no code tools [here](../nocode/)
 - [15 Best Online Course Platforms (Ultimate Guide for 2020)](https://www.adamenfroy.com/best-online-course-platforms)
 - [15+ Platforms to Create and Sell Online Courses (and Counting)](https://www.learningrevolution.net/sell-online-courses/)
 - [The 9 Best Platforms to Create and Sell Online Courses](https://zapier.com/blog/online-course-platforms/)
+- [How to build an online learning platform that engages and educates students at scale with Amazon Kendra, Amazon Comprehend, Amazon Translate,and more.](https://www.linkedin.com/pulse/how-build-online-learning-platform-engages-educates-wong/?sc_channel=sm&sc_campaign=Mobile_Campaign&sc_publisher=TWITTER&sc_country=Mobile&sc_geo=GLOBAL&sc_outcome=awareness&trk=sm-mobile-community_TWITTER&linkId=84889474)
 
 ## Community
 - [mightynetworks.com](https://www.mightynetworks.com) - Bring together your website, online courses, memberships, and more to create your own thriving Passion Economy Business. - community
