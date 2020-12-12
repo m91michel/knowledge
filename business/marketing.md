@@ -9,11 +9,13 @@
 - [marketingunited.org](https://marketingunited.org/wiki/Hauptseite) - Marketing United bietet dir hochwertiges Marketing-Wissen und hilfreiche Online-Marketing-Tools um online (mehr) Geld zu verdienen.
 - [Tools for Makers](https://toolsformakers.com/) - Collections of tools
 - [568 Tools & Quellen für dein Online Marketing](https://marketing-helden.online/tools/online-marketing-links/)
-
+- [swipefiles.co](https://www.swipefiles.co/) - Swipe Files is a curated library of marketing and copywriting examples with detailed teardowns of what makes them great.
+- [106 Free Data Sources For Any Content Marketing Project](https://www.siegemedia.com/creation/data-sources)
 
 ## Landingpages
 - [coachy.net](https://www.coachy.net/de/features/) - Erstelle im Handumdrehen professionelle, mobil-optimierte Verkaufsseiten für deinen Onlinekurs.
 - [raidboxes.io](https://raidboxes.io/) - Blitzschnelles, sicheres und klimapositives WordPress Hosting für Agenturen, Freelancer und WordPress Profis. Mit unseren Features sparst du beim WordPress Hosting, der Entwicklung und Verwaltung deiner Projekte garantiert Zeit und Geld.
+- [leadpages.com](https://www.leadpages.com/) - Leadpages helps small businesses connect with an audience, collect leads, and close sales. Easily build websites, landing pages, pop-ups, alert bars, and beyond.
 
 - [saaspages.xyz](https://saaspages.xyz/) - A collection of the best landing pages with a focus on copywriting and design.
 - [crowdy.ai](https://www.crowdy.ai/de/) - Collect and display authentic testimonials & ratings in minutes.
@@ -83,6 +85,8 @@
 - [park.io/](https://park.io/) - Backorder expiring country code top level domains for only $99.
 - [catchtiger.com](https://www.catchtiger.com/en) - Domain Aktions Plattform
 
+## Growth
+- [growthchannel.io](https://growthchannel.io/) - Generate your personalized growth marketing plan with clear personas, customer journey mapping, and data-driven growth strategy with Growth Channel AI
 
 ## Further Stuff
 - [copecart.com](https://www.copecart.com/marketplace) - CopeCart ist eine Shopsoftware, die sich um automatisierten Rechnungsversand, anbieten der Bezahlarten und Auszahlung Ihrer Einnahmen kümmert. Einmal anmelden, alles drin. - Affiliate Marketplace, um DigiStore Produkte weiter zu geben.
