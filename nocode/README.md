@@ -92,7 +92,6 @@ creativity.
 - [hunter.io](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 - [monitoro.xyz](https://www.monitoro.xyz/) - Monitor website changes and send the latest data to IFTTT, Google Sheets, Zapier, Firebase, AWS Lambda and many other services!
 
-
 ## Chatbot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
 - [Botmake.io](https://botmake.io/) - Create a chatbot
@@ -107,6 +106,10 @@ creativity.
 - [What-if Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding.
 - [ML Kit](https://developers.google.com/ml-kit) - Machine learning for mobile developers
 - [Metaranx](https://www.metaranx.com/) - Understand your data with no code AI
+
+## Content generation
+- [contentyze.com](https://contentyze.com) - Use Contentyze to automatically create marketing content from raw data using Artificial Intelligence.
+- [kafkai.com](https://kafkai.com) - There is no scraping or spinning happening in the background. Kafkai is a machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.
 
 ## Enterprise solutions
 - [Kissflow](https://kissflow.com/) - We raised the bar for process management, again
