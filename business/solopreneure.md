@@ -1,4 +1,4 @@
-# Solopreneur
+# Solopreneur Examples
 
 - [Radreads](https://radreads.co/) - Personal improvement
 
