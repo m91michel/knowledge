@@ -8,3 +8,9 @@
 
 ## JAMStack
 - [prismic.io](https://prismic.io)
+
+
+## Testing
+**Mocking**
+- [Mock dependency in jest with typescript](https://stackoverflow.com/questions/48759035/mock-dependency-in-jest-with-typescript)
+- [How to use TypeScript and Jest mocks](https://klzns.github.io/how-to-use-type-script-and-jest-mocks)
