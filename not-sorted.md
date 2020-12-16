@@ -18,3 +18,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Total Value Locked (USD)  in DeFi](https://defipulse.com/) - The analytics + rankings hub for DeFi. DeFi Pulse tracks key metrics for Decentralized Finance(DeFi) projects and so you can stay up to date on the latest trends.
 
 - [Universal Market Access (UMA) Review: Limitless DeFi](https://www.coinbureau.com/review/uma-token/) - Before buying, be SURE to read this UMA review where we look at tech, use cases and price potential for the token.
+
+- [Synthetix Review: Decentralised Synthetic Asset Protocol](https://www.coinbureau.com/review/synthetix/) - Before considering Synthetix, be sure to read this revew. I look at the security and give you some top tips when using the platform.
