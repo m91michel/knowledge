@@ -10,3 +10,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 
 - [<ShookBlog/>An Introvert's Personal Guide to Tech Twitter](https://blog.shook.codes/an-introverts-personal-guide-to-tech-twitter) - Looking through my Twitter feed, you probably wouldn’t know that I'm an introvert. In "real" life, I have a small circle of friends, crowds overwhelm me, and I need a lot of alone time (though nowadays that's rare since I'm a parent). This article is...
+
+- [Secure.Secure.Secure.Earn.Invest.Invest.Invest.Send.Send.Explore Ethereum.](https://www.argent.xyz/) - Argent is the world's most simple and safe crypto wallet. In one tap you can earn interest and invest; borrow, store and send. Argent is the easiest way to access DeFi.
