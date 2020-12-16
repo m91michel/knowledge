@@ -20,3 +20,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Universal Market Access (UMA) Review: Limitless DeFi](https://www.coinbureau.com/review/uma-token/) - Before buying, be SURE to read this UMA review where we look at tech, use cases and price potential for the token.
 
 - [Synthetix Review: Decentralised Synthetic Asset Protocol](https://www.coinbureau.com/review/synthetix/) - Before considering Synthetix, be sure to read this revew. I look at the security and give you some top tips when using the platform.
+
+- [Altcoin Season Index](https://www.blockchaincenter.net/altcoin-season-index/) - This tool puts an end to the question "Is it Altcoin season right now?" - Based on data
