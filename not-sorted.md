@@ -24,3 +24,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Altcoin Season Index](https://www.blockchaincenter.net/altcoin-season-index/) - This tool puts an end to the question "Is it Altcoin season right now?" - Based on data
 
 - [](https://mintr.synthetix.io/) - 
+
+- [InstadappPowerful DeFi ManagementInstadapp](https://instadapp.io/) - Powerful DeFi Management
