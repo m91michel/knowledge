@@ -22,3 +22,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Synthetix Review: Decentralised Synthetic Asset Protocol](https://www.coinbureau.com/review/synthetix/) - Before considering Synthetix, be sure to read this revew. I look at the security and give you some top tips when using the platform.
 
 - [Altcoin Season Index](https://www.blockchaincenter.net/altcoin-season-index/) - This tool puts an end to the question "Is it Altcoin season right now?" - Based on data
+
+- [](https://mintr.synthetix.io/) - 
