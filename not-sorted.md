@@ -16,3 +16,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [DSA: 6% Instant Return 1 Eth Txn with 4 Protocols (No Solidity Code)](https://blog.instadapp.io/six-percent-instant-return/) - Building DeFi apps is getting better than ever
 
 - [Total Value Locked (USD)  in DeFi](https://defipulse.com/) - The analytics + rankings hub for DeFi. DeFi Pulse tracks key metrics for Decentralized Finance(DeFi) projects and so you can stay up to date on the latest trends.
+
+- [Universal Market Access (UMA) Review: Limitless DeFi](https://www.coinbureau.com/review/uma-token/) - Before buying, be SURE to read this UMA review where we look at tech, use cases and price potential for the token.
