@@ -7,6 +7,7 @@ Resources for your Software as a Service (SaaS) startup
 - [2.2. Generating Online Business Ideas](https://biizly.com/generating-online-business-ideas/)
 - [gaps.com](https://gaps.com/) - Tracking successful online startups to uncover gaps in the market
 - [sparktoro.com](https://sparktoro.com/) - Forget expensive surveys or time-consuming research. SparkToro identifies your customers' biggest sources of influence, and the hidden gems⁠—so you can reach them where they hang out.
+- [How I Validated my idea for Kettle Fire](http://justinmares.com/how-i-validated-my-idea-for-kettle-fire/)
 
 ## Community
 - [founderslist.com](https://founderslist.com/) - Find your next startup or business Cofounder. Find startup and founder Events. Network and connect with Founders and Experts. Find recommended Services and Professionals.

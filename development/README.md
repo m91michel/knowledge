@@ -15,6 +15,9 @@
 - [Tools I use for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn)
 - [Finding the nearest locations around you using AWS Amplify — Part 1](https://gerard-sans.medium.com/finding-the-nearest-locations-around-you-using-aws-amplify-part-1-ee4d6a14eec9)
 
+## Becoming a Clean Coder
+- [97 Journey Every Programmer should Accomplish](https://medium.com/@biratkirat/97-journey-every-programmer-should-accomplish-a0c53dbbfd47)
+
 ## Tools
 - [web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev. - e.g PWA, web vitals
 - [use-together.com](https://www.use-together.com/) - USE Together is a Remote Pair Programming and Team Collaboration tool.
