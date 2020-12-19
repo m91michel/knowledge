@@ -6,6 +6,6 @@
 
 ## Productivity
 - [How to design the perfect day](https://radreads.co/structure-day/)
-
+- https://fortelabs.co/blog/basboverview/
 ## Focus
 - [focusmate.com](https://www.focusmate.com/) - Focusmate virtual coworking helps you get things done.

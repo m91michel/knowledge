@@ -17,8 +17,10 @@ Resources for your Software as a Service (SaaS) startup
 
 ## Promote your SaaS
 - [betalist](https://betalist.com) - BetaList is a community of makers and early adopters showcasing their startups and exchanging feedback.
-- [How to launch on ProductHunt successfully (Strategic top 3 guarantee)](https://www.buildingstartups.co/blog/how-to-launch-on-producthunt-successfully-strategic-top-3-guarantee) - After launching 9 products on producthunt with many top 4 positions and 2 that didn't work. We learnt a process that consistently gets you to the top.
+- [How to launch on ProductHunt successfully (Strategic top 3 guarantee)](https://www.buildingstartups.co/blog/how-to-launch-on-producthunt-successfully-strategic-top-3-guarantee) - After launching 9 products on ProductHunt with many top 4 positions and 2 that didn't work. We learnt a process that consistently gets you to the top.
 - [How I reached #1 on ProductHunt](https://noisecutters.com/producthunt-case-study-number-one/)
 
 ## Cool Stuff
 - [How to say no](https://www.starterstory.com/how-to-say-no) - Templates to help you say no in any situation.
+
+- [Set up brand alert for social media](https://www.indiehackers.com/post/tip-set-up-brand-alerts-for-your-product-72291a2080)
