@@ -8,12 +8,8 @@
 ## Worauf kommt es an?
 - Erfolg = Idee + Umsetzung + Marketing^2
 
-## Trends
-- [Remote work](./remote-work.md)
-- [No-Code](https://gumroad.com/l/MhFRj) - [and this](./../nocode/README.md)
-- [Reports about trends](https://join.trends.vc)
-- [Trends #0012 — Micro Private Equity](https://trends.vc/trends-0012-micro-private-equity/)
-
+## Info Product
+- [lagstack.com](https://lagstack.com) - The modern way to sell your expertise, research, and data.
 
 ## Further
 - [Curated List of 363 questions that VCs and Investors ask Startup Founders](https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/edit#gid=0)

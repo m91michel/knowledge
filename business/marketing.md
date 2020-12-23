@@ -86,6 +86,7 @@
 - [launchaco.com](https://launchaco.launchaco.com/) - Quickly search through dozens of domain names, and social media handles to find the perfect name for your startup or business.
 - [park.io/](https://park.io/) - Backorder expiring country code top level domains for only $99.
 - [catchtiger.com](https://www.catchtiger.com/en) - Domain Aktions Plattform
+- [onelook.com](https://onelook.com/) - Dictionary Search
 
 ## Growth
 - [growthchannel.io](https://growthchannel.io/) - Generate your personalized growth marketing plan with clear personas, customer journey mapping, and data-driven growth strategy with Growth Channel AI

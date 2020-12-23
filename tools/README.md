@@ -57,3 +57,6 @@ Checkout no code tools [here](../nocode/)
 - [markup.io](https://www.markup.io/) - Visual feedback made easy.
 - [botmock.com](https://botmock.com/) - Teams of all sizes use Botmock to rapid prototype and design conversational experiences across multiple channels – both voice & text
 - [lucidchart.com](https://www.lucidchart.com) - Erstellen Sie aussagekräftige Visualisierungen, um Ihre Teams, Informationen und Prozesse besser zu verstehen und so bessere Entscheidungen in allen Geschäftsbereichen zu fördern. Registrieren Sie sich jetzt für eine kostenlose Testversion.
+
+## Video Editor
+- [openshot.org](https://www.openshot.org)
