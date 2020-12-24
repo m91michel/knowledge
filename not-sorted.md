@@ -14,3 +14,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 
 - [161 Marketing-Zitate und Sprüche, die du lieben wirst](https://www.chimpify.de/marketing/161-marketing-zitate-und-sprueche-die-du-lieben-wirst/) - Ich liebe Zitate. Vor allem Marketing-Zitate . Ich weiß nicht wieso, aber irgendwie haben Zitate und Sprüche echt etwas kraftvolles, sie sprudeln einfach nur
+
+- [The awards of design, creativity and innovation on the internet](https://www.awwwards.com/) - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
