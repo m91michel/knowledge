@@ -18,3 +18,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [The awards of design, creativity and innovation on the internet](https://www.awwwards.com/) - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
 - [339+ Inbound-Marketing-Statistiken: Die ultimative Liste, die jeder kennen sollte](https://www.chimpify.de/marketing/marketing-statistiken/) - Marketing-Statistiken laufen mir täglich über den Weg. Deshalb wollte ich diese jetzt einmal schön zentral bündeln. Eigentlich wollte ich einen kleineren Beitrag
+
+- [  Home  ](https://logopond.com/) - 
