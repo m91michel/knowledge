@@ -20,3 +20,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [339+ Inbound-Marketing-Statistiken: Die ultimative Liste, die jeder kennen sollte](https://www.chimpify.de/marketing/marketing-statistiken/) - Marketing-Statistiken laufen mir täglich über den Weg. Deshalb wollte ich diese jetzt einmal schön zentral bündeln. Eigentlich wollte ich einen kleineren Beitrag
 
 - [  Home  ](https://logopond.com/) - 
+
+- [ Real-time feedback. From real customers. Wherever you work.](https://www.usertesting.com/) - Usability testing and research tools to improve your online customer experience from UserTesting, the Human Insight Platform. G2's #1 CX industry software.
