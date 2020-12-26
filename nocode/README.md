@@ -126,6 +126,10 @@ creativity.
 ## Payment
 - [tillypay.com](https://tillypay.com) - Receive single or recurring payments with a web link, no coding required.
 
+## Forms
+- [tally.so](https://tally.so) - Create forms for all purposes in seconds. Without knowing how to code, and for free!
+- [typeform.com](https://www.typeform.com) - Turn a list of questions into a conversation. And get better data to fuel your business.
+
 ## API
 - [Autocode](https://autocode.com/) - Instant API automation with code. Generate Webhook code for connection of two services
 - [NoCodeAPI](https://nocodeapi.com/) - Save time to Setup Server & Code for APIs
