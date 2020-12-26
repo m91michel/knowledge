@@ -5,10 +5,12 @@
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - design resources for developers
 - [undesign.learn.uno](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers
 - [uxbrains.co](https://uxbrains.co/) - A curated knowledge collection for all things UX. Discover content about Design, User Research, and more.
+- [craftwork.design](https://craftwork.design/) - Interface assets for designers and startup creatives
 
 ## Logo
 - [logobly.com](https://logobly.com/)  - Logo
 - [mybrandnewlogo.com](https://mybrandnewlogo.com/) - create logos
+- [logopond.com](https://logopond.com/)
 
 ## Colors
 - [mycolor.space](https://mycolor.space/) - Colors
@@ -29,9 +31,12 @@
 - [themefisher.com](https://themefisher.com/) 
 - [freebiesbug.com](https://freebiesbug.com/code-stuff/html-website-templates/) - Site with nice themes
 
+## Inspiration
+- [The awards of design, creativity and innovation on the internet](https://www.awwwards.com/) - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
 ## User feedback
 - [featuremonkey](https://featuremonkey.launchaco.com/) - The feedback tracker for building better features
+- [usertesting.com](https://www.usertesting.com/) - Real-time feedback. From real customers. Wherever you work. Usability testing and research tools to improve your online customer experience from UserTesting, the Human Insight Platform. G2's #1 CX industry software.
 
 
 ## Images
