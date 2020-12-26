@@ -11,6 +11,7 @@
 - [568 Tools & Quellen für dein Online Marketing](https://marketing-helden.online/tools/online-marketing-links/)
 - [swipefiles.co](https://www.swipefiles.co/) - Swipe Files is a curated library of marketing and copywriting examples with detailed teardowns of what makes them great.
 - [106 Free Data Sources For Any Content Marketing Project](https://www.siegemedia.com/creation/data-sources)
+- [339+ Inbound-Marketing-Statistiken: Die ultimative Liste, die jeder kennen sollte](https://www.chimpify.de/marketing/marketing-statistiken/) - Marketing-Statistiken laufen mir täglich über den Weg. Deshalb wollte ich diese jetzt einmal schön zentral bündeln. Eigentlich wollte ich einen kleineren Beitrag
 
 ## Landingpages
 - [coachy.net](https://www.coachy.net/de/features/) - Erstelle im Handumdrehen professionelle, mobil-optimierte Verkaufsseiten für deinen Onlinekurs.
@@ -97,3 +98,4 @@
 - [Martechbase](https://martechbase.com/) - Martechbase is the free tech management and discovery platform for all your marketing & sales tools. Understand your company's investment in SaaS technology, find new solutions and optimise your stack.
 - [growthhacklist.com](https://growthhacklist.com/) - Growthhacklist is a platform that helps you grow your project
 and safe time to focus on building a great product.
+- [161 Marketing-Zitate und Sprüche, die du lieben wirst](https://www.chimpify.de/marketing/161-marketing-zitate-und-sprueche-die-du-lieben-wirst/) - Ich liebe Zitate. Vor allem Marketing-Zitate . Ich weiß nicht wieso, aber irgendwie haben Zitate und Sprüche echt etwas kraftvolles, sie sprudeln einfach nur
