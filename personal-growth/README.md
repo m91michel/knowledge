@@ -9,3 +9,8 @@
 - https://fortelabs.co/blog/basboverview/
 ## Focus
 - [focusmate.com](https://www.focusmate.com/) - Focusmate virtual coworking helps you get things done.
+
+
+## How to set goals
+- [mindtools.com](https://www.mindtools.com/pages/main/newMN_HTE.htm#Goal%20Setting)
+- [BHAG: Big Hairy Audicious Goals](https://medium.com/@TobiasFrydman/ziele-setzen-was-ist-ihr-bhag-501c62b030a#:~:text=Der%20Begriff%20'Big%20Hairy%20Audacious,clear%20catalyst%20for%20team%20spirit.)
