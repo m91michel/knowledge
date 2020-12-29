@@ -13,6 +13,7 @@
 
 ## Further
 - [Curated List of 363 questions that VCs and Investors ask Startup Founders](https://docs.google.com/spreadsheets/d/1Q9YkaA4SFICprVM33g7HtliYM3Fd1p56KtjyriCtSCI/edit#gid=0)
+- [📻 — Launch a Startup: Free Course Presented by Alexis Ohanian & Knowable](https://yenfm.substack.com/p/-launch-a-startup-free-course-presented)
 
 ## Tools
 - [startupresources.io](https://startupresources.io/) - Startup Tools Delivered To Your Inbox
