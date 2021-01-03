@@ -19,3 +19,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [](https://www.keylitic.com/) - Keylitic is a database of trending keywords from Amazon and Google Trends.
 
 - [Keyword Tool Is The Best Alternative To Google Keyword Planner And Other Keyword Research Tools](https://keywordtool.io/) - Keyword Tool is #1 (FREE) alternative to Google Ads Keyword Planner for SEO & PPC keyword research ᐈ Generate 1,000s ✅ long-tail keywords in seconds!
+
+- [](https://answerthepublic.com/) - Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk & ask questions about your brand, product or topic.
