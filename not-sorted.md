@@ -13,3 +13,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 
 - [Die KOSMOS Erklär-App](http://www.kosmos.de/content/spielware/spiele/kosmos-erklaer-app/) - 
+
+- [Brainstorm Niche Ideas](https://www.keysearch.co/tools/brainstorm-niche-ideas) - Generate unlimited niche ideas from popular sources with our free Niche Ideas Brainstorm Tool. Find ideas for affiliate marketing, niche sites & blogs.
