@@ -17,3 +17,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Brainstorm Niche Ideas](https://www.keysearch.co/tools/brainstorm-niche-ideas) - Generate unlimited niche ideas from popular sources with our free Niche Ideas Brainstorm Tool. Find ideas for affiliate marketing, niche sites & blogs.
 
 - [](https://www.keylitic.com/) - Keylitic is a database of trending keywords from Amazon and Google Trends.
+
+- [Keyword Tool Is The Best Alternative To Google Keyword Planner And Other Keyword Research Tools](https://keywordtool.io/) - Keyword Tool is #1 (FREE) alternative to Google Ads Keyword Planner for SEO & PPC keyword research ᐈ Generate 1,000s ✅ long-tail keywords in seconds!
