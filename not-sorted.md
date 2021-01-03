@@ -21,3 +21,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Keyword Tool Is The Best Alternative To Google Keyword Planner And Other Keyword Research Tools](https://keywordtool.io/) - Keyword Tool is #1 (FREE) alternative to Google Ads Keyword Planner for SEO & PPC keyword research ᐈ Generate 1,000s ✅ long-tail keywords in seconds!
 
 - [](https://answerthepublic.com/) - Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk & ask questions about your brand, product or topic.
+
+- [2021 Trends THE DISPATCH
+                ](http://spacecadet.ventures/2021roundup/) - 
