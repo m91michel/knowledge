@@ -36,6 +36,8 @@
 - [SOCIAL MEDIA TOOLS: THE COMPLETE LIST OF 638 TOOLS](https://bulk.ly/social-media-tools/) - List of 633 Social Media Tools
 - [recurpost.com](https://recurpost.com/) - RecurPost allows you to automatically share your updates at the best time, saving you countless hours and increasing your social media engagement every week.
 - [syften.com](https://syften.com/) - Content marketing, qualified lead hunting, blogger outreach.
+- [pikaso.me](https://pikaso.me) - Get a clean and clutter-free screenshot of any tweet. Perfect for sharing tweets on Instagram, websites, and newsletters.
+- [hypefury.com](https://hypefury.com) - We help you save time with tweet-creation, increase your engagement rate with smart automation, and help you make more money thanks to our Gumroad integration!
 
 ## SEO
 - [backlinko](https://backlinko.com/) - Get Exclusive SEO Tips That I Only Share With Email Subscribers

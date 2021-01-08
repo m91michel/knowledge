@@ -25,3 +25,4 @@
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free IFTTT/Zapier alternative for developers to automate their workflows based on Github actions 
 - [supabase.io](https://supabase.io) - The Open Source Firebase Alternative - Create a backend in less than 2 minutes. Start your project with a Postgres Database, Authentication, instant APIs, and realtime subscriptions.
 - [improvmx.com](https://improvmx.com) - Create free email aliases for your domain name
+- [quickbase.com](https://www.quickbase.com) - Unleash the creativity and problem-solving power of everyone in your business by uniting business and IT developers to innovate every day.
