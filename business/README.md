@@ -5,6 +5,12 @@
   
 > Running out of SaaS ideas. Go to Zapier integrations and choose any idea to work on. For example, Tweet.photo did the same - Picked up something that Zapier is already doing - Automatically post your Instagram photos to Twitter - Acquired for $30K ($10K in cash + $20K cap based on sales for next 2 years) - Started in 2018
 
+- [Startup-Ideen: 7 geniale Methoden zur Ideenfindung](https://www.einstein1.net/startup-ideen/)
+- [Brainstorm Niche Ideas](https://www.keysearch.co/tools/brainstorm-niche-ideas) - Generate unlimited niche ideas from popular sources with our free Niche Ideas Brainstorm Tool. Find ideas for affiliate marketing, niche sites & blogs.
+- [keylitic.com](https://www.keylitic.com/) - Keylitic is a database of trending keywords from Amazon and Google Trends.
+- [Keyword Tool Is The Best Alternative To Google Keyword Planner And Other Keyword Research Tools](https://keywordtool.io/) - Keyword Tool is #1 (FREE) alternative to Google Ads Keyword Planner for SEO & PPC keyword research ᐈ Generate 1,000s ✅ long-tail keywords in seconds!
+- [answerthepublic.com](https://answerthepublic.com/) - Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk & ask questions about your brand, product or topic.
+
 ## Worauf kommt es an?
 - Erfolg = Idee + Umsetzung + Marketing^2
 

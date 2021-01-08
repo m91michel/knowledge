@@ -10,19 +10,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [wiwo-world.com](https://wiwo-world.com/)
 - [An Introvert's Personal Guide to Tech Twitter](https://blog.shook.codes/an-introverts-personal-guide-to-tech-twitter) - Looking through my Twitter feed, you probably wouldn’t know that I'm an introvert. In "real" life, I have a small circle of friends, crowds overwhelm me, and I need a lot of alone time (though nowadays that's rare since I'm a parent). This article is...
 
-
-
-- [Die KOSMOS Erklär-App](http://www.kosmos.de/content/spielware/spiele/kosmos-erklaer-app/) - 
-
-- [Brainstorm Niche Ideas](https://www.keysearch.co/tools/brainstorm-niche-ideas) - Generate unlimited niche ideas from popular sources with our free Niche Ideas Brainstorm Tool. Find ideas for affiliate marketing, niche sites & blogs.
-
-- [](https://www.keylitic.com/) - Keylitic is a database of trending keywords from Amazon and Google Trends.
-
-- [Keyword Tool Is The Best Alternative To Google Keyword Planner And Other Keyword Research Tools](https://keywordtool.io/) - Keyword Tool is #1 (FREE) alternative to Google Ads Keyword Planner for SEO & PPC keyword research ᐈ Generate 1,000s ✅ long-tail keywords in seconds!
-
-- [](https://answerthepublic.com/) - Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk & ask questions about your brand, product or topic.
-
-- [2021 Trends THE DISPATCH
-                ](http://spacecadet.ventures/2021roundup/) - 
-
-- [AboutAbout the Index](https://chapwoodindex.com/about/) - 
+- [AboutAbout the Index](https://chapwoodindex.com/about/)
