@@ -14,6 +14,7 @@
 - [Refactoring Growth](https://www.refactoringgrowth.com/)
 - [How I growth hacked my way to +500 waiting list subscribers](https://www.indiehackers.com/post/how-i-growth-hacked-my-way-to-500-waiting-list-subscribers-9612933fd3)
 - [How I started a Virtual Receptionist Remote Call Center that got successfully acquired after 5 years](https://www.reddit.com/r/Entrepreneur/comments/ffc3xb/how_i_started_a_virtual_receptionist_remote_call/)
+- [Side Hustle Stack](https://sidehustlestack.co) - Side Hustle Stack is a resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.
 
 ## Community
 - [pioneer.app](https://pioneer.app/) - The network for ambitious outsiders. Pioneer helps founders track progress, get advice, and get funded. Join the network, advance yourself:
