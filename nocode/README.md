@@ -26,6 +26,7 @@ creativity.
 - [Automators.academy](https://www.automators.academy/) - It's time to put your business operations on autopilot so you can focus on your product. - course, automation tutorials
 - [Visualmakers](https://visualmakers.de/) - tutorial, german
 - [Nocode portal](https://www.nocodeportal.com/) - tutorials, showcase, Interviews
+- [upvoted.io](https://www.upvoted.io) - Discover tools for indie-makers, side-hustlers and entrepreneurs.
 
 ## Build static website or web applications
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
