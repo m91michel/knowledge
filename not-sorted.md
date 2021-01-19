@@ -16,3 +16,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [10 Content Proofreading Tips to Catch More Avoidable Goofs](https://copyblogger.com/content-proofreading/) - Content proofreading ensures you've thoroughly reviewed your writing, so you feel good about sharing it. Start using these 10 proofreading tips today.
 
 - [Sequoia's investment in Zapier confirms automation is having a moment](https://www.indiehackers.com/post/sequoias-investment-in-zapier-confirms-automation-is-having-a-moment-4184a32768) - **Background:** Last week, The Information announced news no one expected. Sequoia Capital, the famed venture capital firm that has backed companies lik...
+
+- [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/) - 
