@@ -18,3 +18,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Sequoia's investment in Zapier confirms automation is having a moment](https://www.indiehackers.com/post/sequoias-investment-in-zapier-confirms-automation-is-having-a-moment-4184a32768) - **Background:** Last week, The Information announced news no one expected. Sequoia Capital, the famed venture capital firm that has backed companies lik...
 
 - [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/) - 
+
+- [](https://testimonial.to/pricing) - Text testimonials looks less authentic. We help you collect video testimonials from your customers so you can better promote your business.
