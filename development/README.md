@@ -14,6 +14,8 @@
 - [The HEARTED codepens of 2017](https://codepen.io/2017/popular/pens/)
 - [Tools I use for front-end dev](https://dev.to/pustelto/tools-i-use-for-front-end-dev-3ekn)
 - [Finding the nearest locations around you using AWS Amplify — Part 1](https://gerard-sans.medium.com/finding-the-nearest-locations-around-you-using-aws-amplify-part-1-ee4d6a14eec9)
+- [Free for Dev](https://github.com/ripienaar/free-for-dev) - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.
 
 ## Becoming a Clean Coder
 - [97 Journey Every Programmer should Accomplish](https://medium.com/@biratkirat/97-journey-every-programmer-should-accomplish-a0c53dbbfd47)
