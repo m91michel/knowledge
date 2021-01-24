@@ -30,7 +30,8 @@ Ich muss mich mehr auf Problem konzentrieren und dann kann man diese Themen auch
 - Investing
 
 
-## Produktivität
+## Produktivität / Work Smart
+work-smart-blog.de
 
 **Iphone**
 - [How to Configure Your iPhone to Work for You, Not Against You](https://medium.com/better-humans/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8#e1aa)
