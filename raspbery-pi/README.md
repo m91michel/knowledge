@@ -4,6 +4,11 @@
 - [Homepage](https://homebridge.io/)
 - [homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image/wiki/Getting-Started)
 
+**Maintenance**
+- [Update node](https://github.com/homebridge/homebridge-raspbian-image#updating-nodejs)
+- `sudo hb-service update-node`
+- `sudo hb-config`
+
 **Plugins**
 - [awesome-homebridge](https://github.com/sahilchaddha/awesome-homebridge)
 - [homebridge-raspberrypi-temperature](https://github.com/YinHangCode/homebridge-raspberrypi-temperature) - (i)

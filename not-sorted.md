@@ -19,8 +19,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/) - 
 
-- [](https://testimonial.to/pricing) - Text testimonials looks less authentic. We help you collect video testimonials from your customers so you can better promote your business.
+- [testimonial.to](https://testimonial.to) - Text testimonials looks less authentic. We help you collect video testimonials from your customers so you can better promote your business.
 
-- [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/) - 
-
-- [](https://www.joinclubhouse.com/event/6maGpBKx) - Wednesday, January 27 at 7:00pm CET with Zia Nadjib, Sven Frisch, Dennis Oderwald, Christoph Lung, Petra Thuemer. Fragen & Antworten mit Lung [Staffel 7, Folge 6] CEO von DUSCHBROCKEN über die Show, die Auswirkungen und den Turbo Boost, den DHDL auslösen kann. 
+- [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/)
