@@ -22,4 +22,6 @@
 - [klokki.com](https://www.klokki.com/index.html) - Time Tracking App for Mac
 
 
-https://snapdrop.net/#about
+## not sorted
+- [snapdrop.net](https://snapdrop.net)
+- [How To Create Animated GIFs With FFmpeg](https://medium.com/swlh/how-to-create-animated-gifs-with-ffmpeg-29467362cdc1)
