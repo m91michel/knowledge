@@ -152,6 +152,8 @@ creativity.
 
 ## Agencies
 - [02100](https://www.02100.io) - Digitaler Vorreiter werden. Mit Low-Code. - NoCode Agentur aus Hamburg
+- [huggystudio.com](https://www.huggystudio.com) / [no-code.ch](https://www.no-code.ch)
+- [10times.io](https://www.10times.io)
 
 ## Funny Content
 - [Nocode gifs](https://nocodegifs.com/) - It's NoCode GIFs y'all!
