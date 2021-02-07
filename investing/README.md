@@ -16,3 +16,6 @@
 
 ## Invest in startups
 - [investing.io](https://investing.io) - A home for entrepreneurs turned investors
+
+
+- [visualcapitalist.com](https://www.visualcapitalist.com)
