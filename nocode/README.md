@@ -78,6 +78,7 @@ creativity.
 - [Integromat](https://www.integromat.com/en/)
 - [sw-yx / automation](https://github.com/sw-yx/automation)
 - [HTTP Request Node — The Swiss Army Knife](https://medium.com/n8n-io/http-request-node-the-swiss-army-knife-b14e22283383)
+- [automate.io](https://automate.io/) - Integrate your cloud applications. Automate marketing, sales and business processes.
 
 ## New type of documents
 - [Coda.io](https://coda.io/) - It's time for a new doc, that brings words, data and teams together
@@ -96,6 +97,11 @@ creativity.
 - [Distill.io](https://distill.io) - Tracking website updates, automated and simplified - get an alert
 - [hunter.io](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 - [monitoro.xyz](https://www.monitoro.xyz/) - Monitor website changes and send the latest data to IFTTT, Google Sheets, Zapier, Firebase, AWS Lambda and many other services!
+
+
+## API
+- [stackprint.io](https://stackprint.io/)
+
 
 ## Chatbot and voice apps
 - [Landbot](https://landbot.io/) - The Most Intuitive No Code Chatbot Builder
