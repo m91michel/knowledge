@@ -19,3 +19,13 @@ https://morethandigital.info/
 
 ## Resources
 https://github.com/ripienaar/free-for-dev#apis-data-and-ml
+
+## Self Hosted
+https://github.com/n1trux/awesome-sysadmin
+https://github.com/awesome-selfhosted/awesome-selfhosted
+https://github.com/kairichard/awesome-nocode-lowcode
+
+https://www.filestash.app/docs/
+
+https://kairichardkoenig.de/
+https://clubhouseraeume.pory.app/
