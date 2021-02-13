@@ -21,12 +21,27 @@ Resources for your Software as a Service (SaaS) startup
 - [How to launch on ProductHunt successfully (Strategic top 3 guarantee)](https://www.buildingstartups.co/blog/how-to-launch-on-producthunt-successfully-strategic-top-3-guarantee) - After launching 9 products on ProductHunt with many top 4 positions and 2 that didn't work. We learnt a process that consistently gets you to the top.
 - [How I reached #1 on ProductHunt](https://noisecutters.com/producthunt-case-study-number-one/)
 
+
+## Marketing
+https://inboundjunction.com/online-reputation-management-guide?utm_source=indieletters&utm_medium=email&utm_campaign=%7B$indieletters%7D&utm_term=
+
 ## Cool Stuff
 - [Set up brand alert for social media](https://www.indiehackers.com/post/tip-set-up-brand-alerts-for-your-product-72291a2080)
 
 ## Resources
 - [Don't offer a Free Plan](https://nofreeplan.com/#intro)
 - [How to say no](https://www.starterstory.com/how-to-say-no) - Templates to help you say no in any situation.
+- [Indie SaaS Movement](https://indiesaas.io)
+
+## Idden
+- [10 Micro-SaaS Ideas For 2021](https://unoiatech.com/micro-saas-ideas/)
+- [Micro-SaaS Guide: Build a Profitable Business in 2021](https://www.preetamnath.com/micro-saas)
+- [6 Micro SaaS Ideas You'll Want To Steal in 2020](https://www.budibase.com/blog/micro-saas-ideas/)
+- [Micro SaaS eBook by Tyler Tringas](https://tylertringas.com/micro-saas-ebook/)
+
+## Image API
+https://masilotti.com/about/
+https://flaviocopes.com/canvas-node-generate-image/
 
 ## Content Generation
 https://app.snazzy.ai/templates
@@ -34,3 +49,12 @@ https://www.ga-insights.com/
 
 ## Inspiring
 https://magiclogin.net/
+
+
+
+## Temporary saved - Move to other doc file.
+https://mostrecommendedbooks.com
+https://untools.co
+- [10 Questions From Seth Godin to Help You Do Work That Matters](https://entrepreneurshandbook.co/10-questions-from-seth-godin-to-help-you-do-work-that-matters-7f6c2f889471)
+- [7 ways the circular economy will grow in 2021](https://www.fastcompany.com/90593584/7-ways-the-circular-economy-will-grow-in-2021)
+
