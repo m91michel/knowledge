@@ -20,6 +20,11 @@ https://morethandigital.info/
 ## Resources
 https://github.com/ripienaar/free-for-dev#apis-data-and-ml
 
+https://stefanvetter.com/de/
+https://marketplace.digitalocean.com
+https://github.com/botpress/botpress
+https://github.com/huginn/huginn
+
 ## Self Hosted
 https://github.com/n1trux/awesome-sysadmin
 https://github.com/awesome-selfhosted/awesome-selfhosted
