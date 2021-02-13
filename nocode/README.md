@@ -117,6 +117,7 @@ creativity.
 - [What-if Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding.
 - [ML Kit](https://developers.google.com/ml-kit) - Machine learning for mobile developers
 - [Metaranx](https://www.metaranx.com/) - Understand your data with no code AI
+- [obviously.ai](https://www.obviously.ai/) - The total process of building ML algorithms, explaining results, and predicting outcomes in one single click.
 
 ## Content generation
 - [contentyze.com](https://contentyze.com) - Use Contentyze to automatically create marketing content from raw data using Artificial Intelligence.
@@ -161,6 +162,8 @@ creativity.
 ## Sell Digital Products
 - [Service Provider](https://spp.co/) - Agency Management & Client Portal Software - Digital Products and Memberships
 - [Payhip](https://payhip.com/) - Payhip is the easiest way to sell digital downloads & memberships
+- [Gumroad](https://gumroad.com/) - a no-code payment solution that is easy to setup and simple to scale.
+- [digistore24.com](https://www.digistore24.com/) - More Sales. Less Work.
 
 ## Articles
 - [What Is No Code?](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)
@@ -173,7 +176,6 @@ creativity.
 
 ## Further tools
 - [Substack](https://substack.com/) - Start a newsletter. Build your community. Make money from subscriptions.
-- [Gumroad](https://gumroad.com/) - a no-code payment solution that is easy to setup and simple to scale. 
 - [Shopify](https://www.shopify.com/) - Anyone, anywhere, can start a business. Create a ecommerce page
 - [Sharetribe](https://www.sharetribe.com/) - Build a successful marketplace business. Fast.
 - [Scapic](https://www.scapic.com/) - We started Scapic with a goal to be the simplest way you create, share and explore AR, VR & 3D experiences.
@@ -182,3 +184,4 @@ creativity.
 - [Hubspot](https://www.hubspot.de) - Marketing, sales, and service software that helps your business grow without compromise. Because “good for the business” should also mean “good for the customer.”
 - [Beamer](https://www.getbeamer.com/) - Announce your latest updates and get powerful feedback with an in-app notification center, widgets and changelog.
 - [Buy me a coffee](https://www.buymeacoffee.com/) - Buy Me a Coffee is a simple, meaningful way to fund your creative work.
+- [testimonial.to](https://testimonial.to) - Text testimonials looks less authentic. We help you collect video testimonials from your customers so you can better promote your business.
