@@ -19,14 +19,10 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [Mapping the Creator EconomySubscribe to @HugoAmsellem](https://hugo.pm/mapping-the-creator-economy/)
 
-
 - [How To Make Money Online](https://ebizfacts.com/how-to-make-money-online/) - A definitive guide on how to make money online. Dozens of ideas and real examples for earning a few dollars to millions per month on the internet. Plus my #1 recommendation (not what you think).
 
 - [My step-by-step guide to landing pages that convert](https://marketingexamples.com/conversion/landing-page-guide) - There’s two parts of a landing page: what’s immediately visible (above the fold) and what the user scrolls to (below the fold). Let's start above the fold. To quote Donald Miller, a caveman should be able to glance at it and immediately grunt back what you offer. Here’s my formula:
 
-- [
-            Shortcuts Archive        ](https://www.macstories.net/shortcuts/) - 
+- [airteam.ai](https://www.airteam.ai/) - AIRTEAM
 
-- [](https://www.airteam.ai/) - AIRTEAM
-
-- [Schau dir unsere Preise und Fahrräder in deiner Stadt an.In welcher Stadt möchtest du dein Fahrrad haben?Bleib’ immer mobil und sorge dich  nie wieder um dein Fahrrad. Mit unserem Swapfiets Service:  Flexibel, Praktisch, PersönlichDas kannst du von uns erwartenUnsere VersprechenUnser FahrradHäufig gestellte Fragen](https://swapfiets.de/) - Für einen festen monatlichen Betrag bekommst du ein Fahrrad. Wir sorgen dafür, dass dein Fahrrad immer funktioniert.
+- [swapfiets.de](https://swapfiets.de/) - Für einen festen monatlichen Betrag bekommst du ein Fahrrad. Wir sorgen dafür, dass dein Fahrrad immer funktioniert.

@@ -2,6 +2,7 @@
 
 - [iOS Shortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
 - [sharecuts.app](https://sharecuts.app/)
+- [Shortcuts Archive](https://www.macstories.net/shortcuts/)
 
 
 ## Ideas
