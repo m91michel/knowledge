@@ -28,3 +28,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
             Shortcuts Archive        ](https://www.macstories.net/shortcuts/) - 
 
 - [](https://www.airteam.ai/) - AIRTEAM
+
+- [Schau dir unsere Preise und Fahrräder in deiner Stadt an.In welcher Stadt möchtest du dein Fahrrad haben?Bleib’ immer mobil und sorge dich  nie wieder um dein Fahrrad. Mit unserem Swapfiets Service:  Flexibel, Praktisch, PersönlichDas kannst du von uns erwartenUnsere VersprechenUnser FahrradHäufig gestellte Fragen](https://swapfiets.de/) - Für einen festen monatlichen Betrag bekommst du ein Fahrrad. Wir sorgen dafür, dass dein Fahrrad immer funktioniert.
