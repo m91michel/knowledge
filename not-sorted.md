@@ -26,3 +26,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [
             Shortcuts Archive        ](https://www.macstories.net/shortcuts/) - 
+
+- [](https://www.airteam.ai/) - AIRTEAM
