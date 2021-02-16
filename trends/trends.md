@@ -14,6 +14,7 @@
   - [5 Trends Drive the Gartner Hype Cycle for Emerging Technologies, 2020](https://www.gartner.com/smarterwithgartner/5-trends-drive-the-gartner-hype-cycle-for-emerging-technologies-2020/)
   - [The Gartner Hype Cycle over the years](https://www.linkedin.com/pulse/gartner-hype-cycle-over-years-duncan-stewart/)
 - [2021 Trends THE DISPATCH](http://spacecadet.ventures/2021roundup/)
+- [signals.page](https://signals.page)
 
 ## Some trends
 - [Remote work](./remote-work.md)
