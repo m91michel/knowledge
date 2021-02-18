@@ -31,6 +31,9 @@
 - [Quartz](https://qz.com/about/) - Global news and insights for a new generation of business leaders
 - [The Ultimate Startup Checklist](https://www.remoteworkly.co/the-ultimate-startup-checklist)
 - [nuton.co](https://www.nuton.co/) - Everything you need to start, manage and grow your internet business, in one place.
+- [bearchip.com](https://bearchip.com) - 
+
+
 ## Exit
 - [Flippa](https://www.flippa.com/) - #1 marketplace to buy and sell online businesses and domains
 
@@ -38,3 +41,5 @@
 ## Förderung
 - [foerderdatenbank.de](https://www.foerderdatenbank.de/FDB/DE/Home/home.html)
 - [unakon.de](https://unakon.de/)
+
+- [How to Talk to Users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
