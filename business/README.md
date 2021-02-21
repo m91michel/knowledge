@@ -43,3 +43,4 @@
 - [unakon.de](https://unakon.de/)
 
 - [How to Talk to Users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
+- [letsseewhatworks.com](https://letsseewhatworks.com) - LetsSeeWhatWorks ist ein kostenloses Online Magazin mit einer Community für alle, die ein erfolgreiches Online-Unternehmen aufbauen und sich über den Gründeralltag austauschen wollen.
