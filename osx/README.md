@@ -3,6 +3,8 @@
 ## Shortcuts
 - `CMD` + `Shift` + `.` - Show or hide hidden files in finder
 - `CMD` + `Shift` + `v` - Insert copied text without format
+- [Mac-Tastaturkurzbefehle](https://support.apple.com/de-de/HT201236)
+- [defkey.com](https://defkey.com/)
 
 ### Using bash or zsh
 - `. ~/.zshrc` - reload zsh config
@@ -25,3 +27,6 @@
 ## not sorted
 - [snapdrop.net](https://snapdrop.net)
 - [How To Create Animated GIFs With FFmpeg](https://medium.com/swlh/how-to-create-animated-gifs-with-ffmpeg-29467362cdc1)
+- [A curated directory of 550+ Mac menu bar apps](https://macmenubar.com/)
+- [How do I assign a keyboard shortcut to an AppleScript I wrote?](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
+- [Create a macOS Menu Bar Application Using SwiftUI](https://medium.com/@acwrightdesign/creating-a-macos-menu-bar-application-using-swiftui-54572a5d5f87)
