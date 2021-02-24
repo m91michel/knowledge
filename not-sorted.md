@@ -29,3 +29,9 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 
 - [LAURIE BARTH](https://laurieontech.com/posts/perf-tools/) - Let's talk about site performance and the different tools that can help you measure it.
+
+- [
+              Announcing Vite 2.0
+            
+            Log in to continue
+          ](https://dev.to/yyx990803/announcing-vite-2-0-2f0a) - Today I'm excited to announce the official release of Vite 2.0!  Vite (French word for "fast", pron... Tagged with javascript, webdev, vite.
