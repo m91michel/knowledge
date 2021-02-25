@@ -37,3 +37,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
           ](https://dev.to/yyx990803/announcing-vite-2-0-2f0a) - Today I'm excited to announce the official release of Vite 2.0!  Vite (French word for "fast", pron... Tagged with javascript, webdev, vite.
 
 - [Why the Lean Startup doesn't always work: two types of uncertainty](https://www.linkedin.com/pulse/why-lean-startup-doesnt-always-work-two-types-jeroen-coelen) - The Lean Startup approach has popularized rapid experimentation within new ventures. It breaks down your venture into risky assumptions.
+
+- [Think together. No office required.](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
