@@ -39,3 +39,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Why the Lean Startup doesn't always work: two types of uncertainty](https://www.linkedin.com/pulse/why-lean-startup-doesnt-always-work-two-types-jeroen-coelen) - The Lean Startup approach has popularized rapid experimentation within new ventures. It breaks down your venture into risky assumptions.
 
 - [Think together. No office required.](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
+
+- [Product Vision vs. Mission](https://svpg.com/product-vision-vs-mission/) - 
