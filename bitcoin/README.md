@@ -14,6 +14,7 @@
 - [500 Headlines About Bitcoin](https://www.500headlinesaboutbitcoin.com/) - Bitcoin has a branding problem. It’s known as a wildly unstable financial asset, doomed fad, brogrammer fantasy, and blah blah blah. So I subjected it to a favorite branding exercise. In the old days, copywriters wrote 100 good headlines to get one great headline.
 - [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
+- [netpositive.money](https://netpositive.money/)
 
 ## BTC as Investment
 ### Charts

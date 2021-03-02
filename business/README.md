@@ -14,6 +14,9 @@
 ## Worauf kommt es an?
 - Erfolg = Idee + Umsetzung + Marketing^2
 
+## Solve s Problem
+- [Problems, solutions, and outcomes; a big misunderstanding in development](https://www.christenseninstitute.org/blog/problems-solutions-and-outcomes-a-big-misunderstanding-in-development/)
+
 ## Info Product
 - [lagstack.com](https://lagstack.com) - The modern way to sell your expertise, research, and data.
 
@@ -44,3 +47,12 @@
 
 - [How to Talk to Users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
 - [letsseewhatworks.com](https://letsseewhatworks.com) - LetsSeeWhatWorks ist ein kostenloses Online Magazin mit einer Community für alle, die ein erfolgreiches Online-Unternehmen aufbauen und sich über den Gründeralltag austauschen wollen.
+- [github.com](https://github.com/TylerJewell/DevLandscape)
+
+## Startup Thinking
+- [FIRST PRINCIPLE – DIE ULTIMATIVE DENKWEISE, DURCH DIE ELON MUSK SO ERFOLGREICH WURDE](https://www.ebuero.de/blog/first-principle-die-ultimative-denkweise-durch-die-elon-musk-so-erfolgreich-wurde/)
+
+
+## Product Market Fit
+- [Build a Product That Sells Itself With Product-Led Growth](https://www.process.st/product-led-growth)
+- - [The Real Product Market Fit](https://www.ycombinator.com/library/5z-the-real-product-market-fit)
