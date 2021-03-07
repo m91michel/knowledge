@@ -19,3 +19,16 @@
 
 
 - [visualcapitalist.com](https://www.visualcapitalist.com)
+
+
+https://geldhelden.org/fomo-an-der-boerse/
+
+## Lösungen gegen FOMO
+Die nächste Chance kommt bestimmt
+Versuche es mit Mitfreude
+Zur Not eben Schadenfreude
+Belüge dich nicht!
+Habe eine Strategie als Rettungsring
+Halte dir ein Spekulations-Depot
+Führe ein Emotions-Tagebuch
+Entschlacke dich von Social-Media und Aktienkursen
