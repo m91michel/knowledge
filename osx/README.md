@@ -30,3 +30,5 @@
 - [A curated directory of 550+ Mac menu bar apps](https://macmenubar.com/)
 - [How do I assign a keyboard shortcut to an AppleScript I wrote?](https://apple.stackexchange.com/questions/175215/how-do-i-assign-a-keyboard-shortcut-to-an-applescript-i-wrote)
 - [Create a macOS Menu Bar Application Using SwiftUI](https://medium.com/@acwrightdesign/creating-a-macos-menu-bar-application-using-swiftui-54572a5d5f87)
+
+Bypass Paywalls https://github.com/iamadamdev/bypass-paywalls-chrome
