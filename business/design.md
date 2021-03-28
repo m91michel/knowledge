@@ -11,6 +11,7 @@
 - [logobly.com](https://logobly.com/)  - Logo
 - [mybrandnewlogo.com](https://mybrandnewlogo.com/) - create logos
 - [logopond.com](https://logopond.com/)
+- [designs.ai](https://designs.ai) - Create logos, videos, banners, mockups with A.I. in 2 minutes
 
 ## Colors
 - [mycolor.space](https://mycolor.space/) - Colors
@@ -68,3 +69,6 @@
 - [chibi.app](https://chibi.app/) - create cute characters
 - [Wavve.co](https://wavve.co/) - Turn your podcast or musical audio into engaging animated videos to share on social media!
 - [artlist.io](https://artlist.io/) - Get unlimited music and SFX for your videos
+
+
+[deepfakesweb.com](https://deepfakesweb.com)
