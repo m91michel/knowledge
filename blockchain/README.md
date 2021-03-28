@@ -84,6 +84,7 @@ MetaCoin Defi
 
 - [TenX](https://www.tenx.tech) - Buy, send, and spend crypto
 - [Voice](https://www.voice.com/#) - Social media
+- [baseline](https://github.com/ethereum-oasis/baseline) - Combining advances in cryptography, messaging, and blockchain to execute secure and private business processes via the public Ethereum Mainnet.
 
 
 - [WindingTree](https://windingtree.com/) - Global Omnichannel Marketplace No Fees
