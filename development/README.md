@@ -29,3 +29,4 @@
 - [improvmx.com](https://improvmx.com) - Create free email aliases for your domain name
 - [quickbase.com](https://www.quickbase.com) - Unleash the creativity and problem-solving power of everyone in your business by uniting business and IT developers to innovate every day.
 - [resumemaker.online](https://www.resumemaker.online/de)
+- [nx.dev](https://nx.dev/)
