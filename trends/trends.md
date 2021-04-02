@@ -15,6 +15,8 @@
   - [The Gartner Hype Cycle over the years](https://www.linkedin.com/pulse/gartner-hype-cycle-over-years-duncan-stewart/)
 - [2021 Trends THE DISPATCH](http://spacecadet.ventures/2021roundup/)
 - [signals.page](https://signals.page)
+- [springwise.com](https://www.springwise.com/)
+- [a16z.com](https://a16z.com) - Andreessen Horowitz
 
 ## Some trends
 - [Remote work](./remote-work.md)

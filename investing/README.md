@@ -19,16 +19,19 @@
 
 
 - [visualcapitalist.com](https://www.visualcapitalist.com)
+- [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
 
-
-https://geldhelden.org/fomo-an-der-boerse/
-
+## Alternative Assets
+- [alternativeassets.club](https://alternativeassets.club)
+- [stockx.com](https://stockx.com)
+- [goat.com](https://www.goat.com)
 ## Lösungen gegen FOMO
-Die nächste Chance kommt bestimmt
-Versuche es mit Mitfreude
-Zur Not eben Schadenfreude
-Belüge dich nicht!
-Habe eine Strategie als Rettungsring
-Halte dir ein Spekulations-Depot
-Führe ein Emotions-Tagebuch
-Entschlacke dich von Social-Media und Aktienkursen
+- [fomo-an-der-boerse](https://geldhelden.org/fomo-an-der-boerse/)
+- Die nächste Chance kommt bestimmt
+- Versuche es mit Mitfreude
+- Zur Not eben Schadenfreude
+- Belüge dich nicht!
+- Habe eine Strategie als Rettungsring
+- Halte dir ein Spekulations-Depot
+- Führe ein Emotions-Tagebuch
+- Entschlacke dich von Social-Media und Aktienkursen
