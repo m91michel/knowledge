@@ -46,6 +46,8 @@
 - [We're Gettting Over 168,000 Organic Vistors - Here's how we did it](https://www.indiehackers.com/post/were-get-over-168-000-organic-vistors-here-s-how-we-did-it-03c7634cd3?commentId=-MB-YLdp80XtB1mDoQtU)
 - [rankgen.com](https://rankgen.com/) - Get an SEO score for your website and view suggestions on how to improve your on-page SEO. Analyze HTML, files, social, speed, usability, security and more.
 - [frase.io](https://www.frase.io/) - The future of search is about answers, not links. Conversations, not rigid keywords. Frase transforms how you deliver answers with your content.
+- [suite.searchmetrics.com](https://suite.searchmetrics.com/en/research)
+- [detailed.com](https://detailed.com)
 
 **Keyword Search Tools**
 - [ahrefs.com](https://ahrefs.com/de/)
