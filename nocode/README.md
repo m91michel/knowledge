@@ -188,3 +188,7 @@ creativity.
 https://vas3k.com/blog/nocode/
 https://github.com/kairichard/awesome-nocode-lowcode
 http://hasura-forest-admin.surge.sh/#/
+
+
+- [bravostudio.app](https://www.bravostudio.app)
+- [medium.com](https://medium.com/n8n-io/building-an-expense-tracking-app-in-10-minutes-74b0cececc90)
