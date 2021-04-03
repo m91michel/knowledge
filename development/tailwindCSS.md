@@ -12,6 +12,7 @@ https://tailwindcss.com/docs/padding
 https://www.tailwindtoolbox.com
 https://interactivecss.com/#
 
+- [shuffle.dev](https://shuffle.dev/tailwind) - The Tailwind editor for busy developers
 
 
 ## Gatsby
