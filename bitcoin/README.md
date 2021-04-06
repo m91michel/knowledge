@@ -27,6 +27,8 @@
 - [Bitcoin Market Cap Gained per Dollar Invested](https://www.tradingview.com/script/0p0uCzK8-Bitcoin-Market-Cap-Gained-per-Dollar-Invested-BTC-JackSparrow/)
 - [Altcoin Season Index](https://www.blockchaincenter.net/altcoin-season-index/) - This tool puts an end to the question "Is it Altcoin season right now?" - Based on data
 - [datamish.com](https://datamish.com)
+- [bitcoincharts.com](https://bitcoincharts.com)
+- [casebitcoin.com](https://casebitcoin.com)
 
 ### Stock-to-flow
 
