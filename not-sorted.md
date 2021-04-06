@@ -37,3 +37,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Think together. No office required.](https://whimsical.com/) - Collaborative docs, flowcharts, wireframes, sticky notes, and mind maps.
 
 - [Product Vision vs. Mission](https://svpg.com/product-vision-vs-mission/) - 
+
+
+- [Was macht eigentlich mein Geld?Danke fürs Teilen!](https://www.fairfinanceguide.de/ffg-d/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
