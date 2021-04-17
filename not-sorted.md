@@ -38,6 +38,8 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [Product Vision vs. Mission](https://svpg.com/product-vision-vs-mission/) - 
 
+- [Books for dev](https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac)
+- [Time management & productivity tips for devs](https://dev.to/technoglot/time-management-productivity-tips-for-devs-4d33)
+- [foodhub-muenchen.de](https://foodhub-muenchen.de)
 
 - [Was macht eigentlich mein Geld?Danke fürs Teilen!](https://www.fairfinanceguide.de/ffg-d/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
-- [Was macht eigentlich mein Geld?Danke fürs Teilen!](https://www.fairfinanceguide.de/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
