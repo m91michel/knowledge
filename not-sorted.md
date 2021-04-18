@@ -43,3 +43,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [foodhub-muenchen.de](https://foodhub-muenchen.de)
 
 - [Was macht eigentlich mein Geld?Danke fürs Teilen!](https://www.fairfinanceguide.de/ffg-d/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
+
+- []() - Enough has been said about API products. One might ask: how do you build good API products? Here are some essential tips to help create them.
