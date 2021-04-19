@@ -54,3 +54,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Hey 👋](https://www.jimzarkadas.com/) - An indie maker and UX coach | I create practical UX playbooks, tutorials and tools to help fellow founders build products their users will love.
 
 - [Start | Fair Finance Guide Deutschland](https://www.fairfinanceguide.de/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
+- [CandorMakers - Building in public toolset](https://candormakers.com/) - Make your startup open, enjoy the advantages of building in public and save time!
