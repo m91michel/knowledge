@@ -11,3 +11,18 @@
 ## Media Processing
 - [transloadit.com](https://transloadit.com)
 - [backendless.com](https://backendless.com)
+- [screenshotapi.net](https://www.screenshotapi.net/pricing)
+- https://insights.glassnode.com/sopr-announcment/
+
+
+
+- [easyresume.io](https://www.easyresume.io) - resume
+- [about.elink.io](https://about.elink.io) - 
+- [spoerl.me](https://spoerl.me) - Marco
+- [ideaeconomy.net](https://ideaeconomy.net) - idea
+- [nuton.co](https://www.nuton.co) - creater ressources
+- [starterstory.com](https://www.starterstory.com) - startup stories
+
+
+- [cryptoslate.com](https://cryptoslate.com/videos/19-year-old-bitcoin-millionaire-gives-his-most-unusual-tips-on-trading/)
+- [on.wax.io](https://on.wax.io/wax-io/)

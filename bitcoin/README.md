@@ -15,6 +15,8 @@
 - [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 - [netpositive.money](https://netpositive.money/)
+- [usdebtclock.org](https://www.usdebtclock.org/index.html) - US Debt Clock
+- [hope.com](https://hope.com/en/leaders) - Bitcoin Viceos and resources
 
 ## BTC as Investment
 ### Charts
@@ -29,6 +31,7 @@
 - [datamish.com](https://datamish.com)
 - [bitcoincharts.com](https://bitcoincharts.com)
 - [casebitcoin.com](https://casebitcoin.com)
+- [decentrader.com](https://decentrader.com/charts/)
 
 ### Stock-to-flow
 
@@ -70,7 +73,7 @@
 - [Samourai Wallet](https://samouraiwallet.com/) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
 - [Wasabi](https://wasabiwallet.io/) - Wasabi is an open-source, non-custodial, privacy-focused Bitcoin wallet for Desktop, that implements trustless CoinJoin.
 - [BTCPay Server](https://btcpayserver.org/) - BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free.
-
+  
 ## Interesting articles
 - [Bitcoins On-Chain-Verhalten fürs Investment nutzen: Neuer TA-Indikator](https://www.btc-echo.de/bitcoins-on-chain-verhalten-fuers-investment-nutzen-neuer-ta-indikator/)
 - [Top Dormant for 1 years Bitcoin Addresses](https://bitinfocharts.com/top-100-dormant_1y-bitcoin-addresses.html)
