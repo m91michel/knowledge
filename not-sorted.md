@@ -54,3 +54,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [A guide to creating API Products - Mind the Product](https://www.mindtheproduct.com/a-guide-to-creating-api-products/) - Enough has been said about API products. One might ask: how do you build good API products? Here are some essential tips to help create them.
 
 - [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
+- [Kernal - Find, share and grow startup ideas](https://kern.al/) - A community for passionate creatives, founders and entrepreneurs.
