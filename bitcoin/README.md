@@ -32,6 +32,8 @@
 - [bitcoincharts.com](https://bitcoincharts.com)
 - [casebitcoin.com](https://casebitcoin.com)
 - [decentrader.com](https://decentrader.com/charts/)
+- [www.bybt.com](https://www.bybt.com/)
+- [CBBI: Colin Talks Crypto Bitcoin Bull Run Index](https://colintalkscrypto.com/)
 
 ### Stock-to-flow
 
