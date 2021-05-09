@@ -34,6 +34,7 @@
 - [decentrader.com](https://decentrader.com/charts/)
 - [www.bybt.com](https://www.bybt.com/)
 - [CBBI: Colin Talks Crypto Bitcoin Bull Run Index](https://colintalkscrypto.com/)
+- https://paybis.com/blog/how-to-buy-the-dip/
 
 ### Stock-to-flow
 
@@ -49,27 +50,28 @@
 
 - [The Logic Behind Realized Value](https://medium.com/adaptivecapital/bitcoin-market-value-to-realized-value-mvrv-ratio-3ebc914dbaee)
 
-### Hash Ribbons
+**Hash Ribbons**
 - [Hash Ribbons & Bitcoin Bottoms](https://medium.com/capriole/hash-ribbons-bitcoin-bottoms-60da13095836)
 - [Bitcoin Kurs Analyse: Dieser Indikator könnte den nächsten Bullrun ankündigen](https://cryptomonday.de/bitcoin-kurs-analyse-dieser-indikator-koennte-den-naechsten-bullrun-ankuendigen/)
 - [Bitcoin-Kurs: Steht das Todeskreuz bevor? Hash Ribbon unter der Lupe](https://www.btc-echo.de/bitcoin-kurs-steht-das-todeskreuz-bevor-hash-ribbon-unter-der-lupe/)
-
-### Mayer Multiple
+**Mayer Multiple**
 - [HOW THE MAYER MULTIPLE WORKS](https://www.theinvestorspodcast.com/bitcoin-mayer-multiple/)
-
-### BTC Long vs Short
+**BTC Long vs Short**
 - [BITCOIN LONGS VS SHORTS](https://blockchainwhispers.com/bitmex-position-calculator/)
 - [Bitfinex BTC USDT by coinfarm](https://www.coinfarm.online/bitfinex/)
-
-### Rainbow Chart
+**Rainbow Chart**
 - [Bitcoin Rainbow Chart (live)](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
-### HodlWave 
+**HodlWave**
 - [Bitcoin UTXO Age Distribution](https://hodlwave.com)
 
-## Technology
+# Technology
 - [Fibre](https://bitcoinfibre.org/) - The Fast Internet Bitcoin Relay Engine (FIBRE) is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber. 
 - [BTC Relay](http://btcrelay.org/) - A bridge between the Bitcoin blockchain & Ethereum smart contracts
 - [Erlay: Eine Methode, um die Konnektivität des Bitcoin-Netzwerks zu verbessern](https://bitcoinblog.de/2019/05/29/erlay-eine-methode-um-die-konnektivitaet-des-bitcoin-netzwerks-zu-verbessern/)
+
+# Bitcoin and energy consumption
+- [Bitcoin energy use - mined the gap](https://www.iea.org/commentaries/bitcoin-energy-use-mined-the-gap)
+- [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
 
 ## Wallets & Privacy
 - [Samourai Wallet](https://samouraiwallet.com/) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
