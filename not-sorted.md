@@ -60,3 +60,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Install the free Who Targets Me browser extension to track political ads](https://whotargets.me/en/) - Join over 40,000 people who have added Who Targets Me to their browser to find out how politicians are trying to win votes with social media ads.
 - [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
 - [Können Geimpfte das Coronavirus weiterverbreiten? - SWR Wissen](https://www.swr.de/wissen/ansteckend-trotz-corona-impfung-forschung-100.html) - Covid-19-Impfstoffe sollen die Corona-Pandemie schnell beenden. Damit das klappt, sollten Geimpfte nicht nur vor einer Erkrankung geschützt sein, sondern möglichst auch keine anderen Menschen mehr anstecken. Dazu gibt es immer mehr wissenschaftliche Erkenntnisse.
+- [CrossPost App](https://crossxpost.app/) - No more tiresome copy pasting. We help bloggers and Solopreneurs
+      to share their content to social platforms from one place.
