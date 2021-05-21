@@ -62,3 +62,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Können Geimpfte das Coronavirus weiterverbreiten? - SWR Wissen](https://www.swr.de/wissen/ansteckend-trotz-corona-impfung-forschung-100.html) - Covid-19-Impfstoffe sollen die Corona-Pandemie schnell beenden. Damit das klappt, sollten Geimpfte nicht nur vor einer Erkrankung geschützt sein, sondern möglichst auch keine anderen Menschen mehr anstecken. Dazu gibt es immer mehr wissenschaftliche Erkenntnisse.
 - [CrossPost App](https://crossxpost.app/) - No more tiresome copy pasting. We help bloggers and Solopreneurs
       to share their content to social platforms from one place.
+- [Howitzer: Reddit Marketing Made Easy](https://howitzer.co/) - 
