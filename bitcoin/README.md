@@ -69,6 +69,10 @@
 - [BTC Relay](http://btcrelay.org/) - A bridge between the Bitcoin blockchain & Ethereum smart contracts
 - [Erlay: Eine Methode, um die Konnektivität des Bitcoin-Netzwerks zu verbessern](https://bitcoinblog.de/2019/05/29/erlay-eine-methode-um-die-konnektivitaet-des-bitcoin-netzwerks-zu-verbessern/)
 
+## Blogs
+- [coinbureau.com](https://www.coinbureau.com/)
+- [intothecryptoverse.com](https://intothecryptoverse.com/)
+
 # Bitcoin and energy consumption
 - [Bitcoin energy use - mined the gap](https://www.iea.org/commentaries/bitcoin-energy-use-mined-the-gap)
 - [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
