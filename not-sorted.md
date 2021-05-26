@@ -63,3 +63,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [CrossPost App](https://crossxpost.app/) - No more tiresome copy pasting. We help bloggers and Solopreneurs
       to share their content to social platforms from one place.
 - [Howitzer: Reddit Marketing Made Easy](https://howitzer.co/) - 
+- [TransitiveBullsh.it](https://transitivebullsh.it/) - Personal site of Travis Fischer aka Transitive Bullshit
