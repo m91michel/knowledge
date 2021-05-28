@@ -24,6 +24,15 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      
+      - name: Diffset
+        uses: technote-space/get-diff-action@v4
+        with:
+          PATTERNS: |
+            blockchain/**
+      
+      - name: Echo Diff
+        run: echo ${{ env.GIT_DIFF }}
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
