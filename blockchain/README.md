@@ -88,8 +88,9 @@ MetaCoin Defi
 
 
 - [WindingTree](https://windingtree.com/) - Global Omnichannel Marketplace No Fees
-
 - [Sweatcoin](https://sweatco.in/) - We want a healthier you on a healthier planet. Converting your steps into a currency to spend on cool products and services
+
+// ADD SOMETHING
 
 Eigentumsrechte auf wissenschaftliche oder Künstler Werke
 
