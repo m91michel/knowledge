@@ -32,4 +32,5 @@ jobs:
             blockchain/**
       
       - name: Echo Diff
-        run: echo ${{ env.GIT_DIFF }}
+        if: env.GIT_DIFF_FILTERED
+        run: echo ${{ env.GIT_DIFF_FILTERED }}
