@@ -72,6 +72,3 @@
 - [artlist.io](https://artlist.io/) - Get unlimited music and SFX for your videos
 - [deepfakesweb.com](https://deepfakesweb.com)
 - [16 must-have Figma Plugins for UI/UX Designers](https://devdojo.com/savio/16-must-have-figma-plugins-for-uiux-designers)
-
-
-- [16 must-have Figma Plugins for UI/UX Designers](https://devdojo.com/savio/16-must-have-figma-plugins-for-uiux-designers)
