@@ -26,3 +26,5 @@
 
 - [cryptoslate.com](https://cryptoslate.com/videos/19-year-old-bitcoin-millionaire-gives-his-most-unusual-tips-on-trading/)
 - [on.wax.io](https://on.wax.io/wax-io/)
+- [Creating a super productive REST API in 30 seconds 💪](https://devdojo.com/savio/creating-a-super-productive-rest-api-in-30-seconds) - Hello Folks 👋 This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologie...
+- [A guide to creating API Products - Mind the Product](https://www.mindtheproduct.com/a-guide-to-creating-api-products/) - Enough has been said about API products. One might ask: how do you build good API products? Here are some essential tips to help create them.

@@ -8,6 +8,8 @@ kostenlose Ersteinschätzung innerhalb von 2 Stunden erhalten.
 - [mentorpass.co](https://www.mentorpass.co/) - Learn from 100+ mentors and coaches that will help you launch and scale your business.
 - [growthmentor.com](https://www.growthmentor.com/) - Finding a startup or marketing mentor shouldn't be hard
 - [pleo.io](https://www.pleo.io/de/)
+- [CrossPost App](https://crossxpost.app/) - No more tiresome copy pasting. We help bloggers and Solopreneurs to share their content to social platforms from one place.
+
 ## Games
 - [tradecraft.fun](https://tradecraft.fun/game/small-bonus-6934) - code names as online game
 

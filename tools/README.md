@@ -80,3 +80,6 @@ Checkout no code tools [here](../nocode/)
 - [staffbase.com](https://staffbase.com/en/)
 - [getcyberleads.com](https://www.getcyberleads.com)
 - [levity.ai](https://levity.ai/)
+- [Howitzer: Reddit Marketing Made Easy](https://howitzer.co/) - 
+- [Install the free Who Targets Me browser extension to track political ads](https://whotargets.me/en/) - Join over 40,000 people who have added Who Targets Me to their browser to find out how politicians are trying to win votes with social media ads.
+

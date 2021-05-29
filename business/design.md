@@ -6,6 +6,7 @@
 - [undesign.learn.uno](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers
 - [uxbrains.co](https://uxbrains.co/) - A curated knowledge collection for all things UX. Discover content about Design, User Research, and more.
 - [craftwork.design](https://craftwork.design/) - Interface assets for designers and startup creatives
+- [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
 
 ## Logo
 - [logobly.com](https://logobly.com/)  - Logo

@@ -51,16 +51,10 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [Start | Fair Finance Guide Deutschland](https://www.fairfinanceguide.de/) - Wollten Sie schon immer einmal wissen, was Ihre Bank mit dem Geld macht, das Sie ihr anvertrauen? Wird Ihr Geld in die Produktion von Waffen investiert? Finanzieren Sie unbewusst Kredite für Unternehmen, die gegen Menschenrechte verstoßen? Nimmt Ihre Bank Rücksicht auf Arbeitsrechte? Und wie sieht eigentlich die  Klimabilanz Ihrer Bank aus?  Überprüfen Sie selbst, wie deutsche Banken bei sozialen und ökologischen Themen abschneiden.
 - [CandorMakers - Building in public toolset](https://candormakers.com/) - Make your startup open, enjoy the advantages of building in public and save time!
-- [A guide to creating API Products - Mind the Product](https://www.mindtheproduct.com/a-guide-to-creating-api-products/) - Enough has been said about API products. One might ask: how do you build good API products? Here are some essential tips to help create them.
 
-- [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
-- [Kernal - Find, share and grow startup ideas](https://kern.al/) - A community for passionate creatives, founders and entrepreneurs.
 - [Cryptocurrency Visualisations & Prices | CoinParticle](https://www.coinparticle.com/) - Watch visualised cryptocurrency prices, market capitalizations, volumes and more of BTC, ETH, XRP, LTC, BCH, EOS, BNB on COINPARTICLE.COM
-- [Creating a super productive REST API in 30 seconds 💪](https://devdojo.com/savio/creating-a-super-productive-rest-api-in-30-seconds) - Hello Folks 👋 This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologie...
-- [Install the free Who Targets Me browser extension to track political ads](https://whotargets.me/en/) - Join over 40,000 people who have added Who Targets Me to their browser to find out how politicians are trying to win votes with social media ads.
-- [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
+
 - [Können Geimpfte das Coronavirus weiterverbreiten? - SWR Wissen](https://www.swr.de/wissen/ansteckend-trotz-corona-impfung-forschung-100.html) - Covid-19-Impfstoffe sollen die Corona-Pandemie schnell beenden. Damit das klappt, sollten Geimpfte nicht nur vor einer Erkrankung geschützt sein, sondern möglichst auch keine anderen Menschen mehr anstecken. Dazu gibt es immer mehr wissenschaftliche Erkenntnisse.
-- [CrossPost App](https://crossxpost.app/) - No more tiresome copy pasting. We help bloggers and Solopreneurs
-      to share their content to social platforms from one place.
-- [Howitzer: Reddit Marketing Made Easy](https://howitzer.co/) - 
+
 - [TransitiveBullsh.it](https://transitivebullsh.it/) - Personal site of Travis Fischer aka Transitive Bullshit
+

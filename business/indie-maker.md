@@ -20,6 +20,8 @@
 - [pioneer.app](https://pioneer.app/) - The network for ambitious outsiders. Pioneer helps founders track progress, get advice, and get funded. Join the network, advance yourself:
 - [Der Nein2Five Podcast](https://nein2five.de/ressourcen/) - Podcast über Geschäftsideen, Side Hustlers und digitales Marketing.
 - [lunadio.com](https://www.lunadio.com/) - A community of indie hackers documenting our journey
+- [Kernal - Find, share and grow startup ideas](https://kern.al/) - A community for passionate creatives, founders and entrepreneurs.
+
 ## Tools
 - [Userlist](https://userlist.com/) - Behavior-Based Customer Messaging. Perfect for Your SaaS. (Newsletter)
 - [iworkedon.com](https://iworkedon.com/) - I worked on ... Easily build a portfolio of the products you've built to share with the worl
