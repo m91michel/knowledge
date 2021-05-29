@@ -7,6 +7,8 @@
 - [uxbrains.co](https://uxbrains.co/) - A curated knowledge collection for all things UX. Discover content about Design, User Research, and more.
 - [craftwork.design](https://craftwork.design/) - Interface assets for designers and startup creatives
 - [Resource Cards - Selected free resources for designers](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project.
+- [slidesgo.com](https://slidesgo.com) - Free Google Slides and PowerPoint templates
+to boost your presentations
 
 ## Logo
 - [logobly.com](https://logobly.com/)  - Logo
@@ -20,6 +22,7 @@
 - [cssgradient.io](https://cssgradient.io/) - Gradient and Colors
 - [coolors.co](https://coolors.co) - Color Palettes
 - [Colors and fonds](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
+- [Adobe Color](https://color.adobe.com/de/create/color-wheel)
 ## Animation and video
 - [lottiefiles.com](https://lottiefiles.com/) - animations
 - [www.loom.com](https://www.loom.com) - say it with video
@@ -53,7 +56,6 @@
 - [Viddyoze](https://viddyoze.com/) - Viddyoze Was Created To Be The Future Of Video… And Through All 5 Years, We’ve NEVER STOPPED
 - [flexclip.com](https://www.flexclip.com/) - Amazing Videos Made Easy with FlexClip Video Maker
 
-
 **Illustrations**
 - [Erzähle deine Geschichte mit Illustrationen](https://blush.design/de) - Mit Blush kannst du deinen Designs ganz einfach kostenlose Illustrationen hinzufügen. Spiele mit vollständig anpassbaren Grafiken, die von Künstlern auf der ganzen Welt erstellt wurden.
 - [dev.to/kedark](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c) - Illustrations
@@ -62,6 +64,9 @@
 - [artify.co](https://www.artify.co/uncommon-illustrations) - Uncommon Illustrations
 - [galshir.com](https://galshir.com/) - Simple web app for character guidelines - create your own illustrations
 - [drawkit.io](https://www.drawkit.io) - Beautiful, free illustrations. Updated weekly.
+- [storyset.com](https://storyset.com/search) - Awesome free customizable illustrations for your next project
+- [icons8.com](https://icons8.com) - Free vector illustrations to enhance your project
+- [freepik.com](https://www.freepik.com)
 
 **Tools**
 - [Glorifyapp](https://www.glorifyapp.com) - Create high converting product images in a few clicks
