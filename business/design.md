@@ -23,6 +23,8 @@ to boost your presentations
 - [coolors.co](https://coolors.co) - Color Palettes
 - [Colors and fonds](https://www.colorsandfonts.com/) - Colors & Fonts is a curated library of colors and fonts for digital designers and web developers.
 - [Adobe Color](https://color.adobe.com/de/create/color-wheel)
+
+
 ## Animation and video
 - [lottiefiles.com](https://lottiefiles.com/) - animations
 - [www.loom.com](https://www.loom.com) - say it with video
