@@ -58,3 +58,5 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 
 - [TransitiveBullsh.it](https://transitivebullsh.it/) - Personal site of Travis Fischer aka Transitive Bullshit
 
+
+- [Check Domain Names and Social Media Usernames Online](https://www.namecheck.com/) - 
