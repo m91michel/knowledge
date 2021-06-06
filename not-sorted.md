@@ -64,3 +64,6 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [Kostenlose Vektoren-, Stockfoto- und PSD-Downloads | Freepik](https://de.freepik.com/) - Millionen kostenlose Grafikressourcen. ✓ Vektoren ✓ Stockfotos ✓ PSD ✓ Icons ✓ Alles, was Sie für Ihre Kreativprojekte benötigen
 - [Charlie Bilello auf Twitter: "Asset Class Returns through May... Data via @ycharts https://t.co/L8Rc2PxNrs" / Twitter](https://mobile.twitter.com/charliebilello/status/1399748863293116418) - 
 - [HIGHSCORE.domains](https://highscore.domains/) - A fun leaderboard to find out who owns more domains
+- [chpmnk | Haptic](https://www.haptic.so/p/chpmnk) - Our goal is to simplify grocery shopping and automate household management.
+Create shopping lists from your recipes while concidering food already in your pantry. 
+Get recipe suggestions for food about to spoil. 
