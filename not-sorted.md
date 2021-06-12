@@ -67,3 +67,4 @@ This is a list of not sorted links, which are added automatically by n8n workflo
 - [chpmnk | Haptic](https://www.haptic.so/p/chpmnk) - Our goal is to simplify grocery shopping and automate household management.
 Create shopping lists from your recipes while concidering food already in your pantry. 
 Get recipe suggestions for food about to spoil. 
+- [EM Spielplan 2021 chronologisch - Datum + Uhrzeit | EM 2020](https://www.google.de/amp/s/www.fussball-wm.pro/em-2021/spielplan/%3famp) - Der ⚽ EM 2021 Spielplan in chronologischer Reihenfolge ✅ Alle 51 Partien der "EURO 2020" mit Datum, deutscher Uhrzeit ✚ Spielort im Überblick ✅.
