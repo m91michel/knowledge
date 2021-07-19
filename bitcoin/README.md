@@ -10,7 +10,7 @@
 - [Der Bitcoin-Standard: Die dezentrale Alternative zum Zentralbankensystem](https://www.amazon.de/dp/3982109507/ref=cm_sw_r_oth_api_i_engTDbVD34FG1)
 - [THE BITCOIN STANDARD](https://saifedean.com/book/)
 - [Hyperbitcoinization: Winner Takes All](https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f) - by ObiWan Kenobit
-- [Dollar Cost Averaging Bitcoin](https://dcabtc.com/?sd=2017-12-17)
+- [Dollar Cost Averaging Bitcoin](https://www.dca-cc.com/dca/bitcoin)
 - [500 Headlines About Bitcoin](https://www.500headlinesaboutbitcoin.com/) - Bitcoin has a branding problem. It’s known as a wildly unstable financial asset, doomed fad, brogrammer fantasy, and blah blah blah. So I subjected it to a favorite branding exercise. In the old days, copywriters wrote 100 good headlines to get one great headline.
 - [Civic Wallet](https://www.civic.com/) - Keep your verified identity private. Store and send Bitcoin safely.
 - [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
